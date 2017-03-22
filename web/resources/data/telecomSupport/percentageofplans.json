@@ -1,0 +1,18 @@
+[
+  {
+    "Plan": "5 gb with tethering",
+    "Usage": 9
+  },
+  {
+    "Plan": "5 gb",
+    "Usage": 30
+  },
+  {
+    "Plan": "400 mb",
+    "Usage": 25
+  },
+  {
+    "Plan": "no data plan",
+    "Usage": 36
+  }
+]

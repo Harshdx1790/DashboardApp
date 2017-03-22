@@ -1,0 +1,203 @@
+[
+ 
+  {
+    "State": "Andhra Pradesh",
+    "Overall Overall Sales": 19183.83,
+    "Total Total Quantity": 221,
+    "Overall Overall Discount": 0,
+    "Total Total Profit": 4586.73,
+    "Overall Overall Shipping Cost": 2004.18
+  },
+  {
+    "State": "Assam",
+    "Overall Sales": 5185.38,
+    "Total Quantity": 59,
+    "Overall Discount": 0,
+    "Total Profit": 887.1,
+    "Overall Shipping Cost": 420.25
+  },
+  {
+    "State": "Bihar",
+    "Overall Sales": 28615.14,
+    "Total Quantity": 228,
+    "Overall Discount": 0,
+    "Total Profit": 6139.08,
+    "Overall Shipping Cost": 2881.71
+  },
+  {
+    "State": "Chandigarh",
+    "Overall Sales": 491.94,
+    "Total Quantity": 19,
+    "Overall Discount": 0,
+    "Total Profit": 193.95,
+    "Overall Shipping Cost": 63.21
+  },
+  {
+    "State": "Chhattisgarh",
+    "Overall Sales": 22798.02,
+    "Total Quantity": 155,
+    "Overall Discount": 0,
+    "Total Profit": 6408.87,
+    "Overall Shipping Cost": 1677.96
+  },
+  {
+    "State": "Delhi",
+    "Overall Sales": 31026.03,
+    "Total Quantity": 211,
+    "Overall Discount": 0,
+    "Total Profit": 5568.72,
+    "Overall Shipping Cost": 3109.83
+  },
+  {
+    "State": "Gujarat",
+    "Overall Sales": 29290.35,
+    "Total Quantity": 307,
+    "Overall Discount": 0,
+    "Total Profit": 8090.76,
+    "Overall Shipping Cost": 3633.1
+  },
+  {
+    "State": "Haryana",
+    "Overall Sales": 24657.42,
+    "Total Quantity": 194,
+    "Overall Discount": 0,
+    "Total Profit": 6565.32,
+    "Overall Shipping Cost": 2534.81
+  },
+  {
+    "State": "Jammu and Kashmir",
+    "Overall Sales": 7969.08,
+    "Total Quantity": 55,
+    "Overall Discount": 0,
+    "Total Profit": 2844.24,
+    "Overall Shipping Cost": 626.48
+  },
+  {
+    "State": "Jharkhand",
+    "Overall Sales": 12131.58,
+    "Total Quantity": 87,
+    "Overall Discount": 0,
+    "Total Profit": 4025.16,
+    "Overall Shipping Cost": 1802.38
+  },
+  {
+    "State": "Karnataka",
+    "Overall Sales": 31802.4,
+    "Total Quantity": 403,
+    "Overall Discount": 0,
+    "Total Profit": 9290.34,
+    "Overall Shipping Cost": 2838.95
+  },
+  {
+    "State": "Kerala",
+    "Overall Sales": 20696.97,
+    "Total Quantity": 121,
+    "Overall Discount": 0,
+    "Total Profit": 4773.96,
+    "Overall Shipping Cost": 2646.77
+  },
+  {
+    "State": "Madhya Pradesh",
+    "Overall Sales": 27069.78,
+    "Total Quantity": 267,
+    "Overall Discount": 0,
+    "Total Profit": 6268.02,
+    "Overall Shipping Cost": 3700.57
+  },
+  {
+    "State": "Maharashtra",
+    "Overall Sales": 101322.405,
+    "Total Quantity": 1087,
+    "Overall Discount": 27.5,
+    "Total Profit": 16105.755,
+    "Overall Shipping Cost": 10816.11
+  },
+  {
+    "State": "Manipur",
+    "Overall Sales": 5429.34,
+    "Total Quantity": 18,
+    "Overall Discount": 0,
+    "Total Profit": 354.42,
+    "Overall Shipping Cost": 400.22
+  },
+  {
+    "State": "Odisha",
+    "Overall Sales": 5280.36,
+    "Total Quantity": 78,
+    "Overall Discount": 0,
+    "Total Profit": 1395.96,
+    "Overall Shipping Cost": 726.27
+  },
+  {
+    "State": "Puducherry",
+    "Overall Sales": 2936.67,
+    "Total Quantity": 32,
+    "Overall Discount": 0,
+    "Total Profit": 455.94,
+    "Overall Shipping Cost": 220.54
+  },
+  {
+    "State": "Punjab",
+    "Overall Sales": 14007.72,
+    "Total Quantity": 151,
+    "Overall Discount": 0,
+    "Total Profit": 3035.55,
+    "Overall Shipping Cost": 1177.72
+  },
+  {
+    "State": "Rajasthan",
+    "Overall Sales": 30992.79,
+    "Total Quantity": 364,
+    "Overall Discount": 0,
+    "Total Profit": 7041.03,
+    "Overall Shipping Cost": 3089.64
+  },
+  {
+    "State": "Tamil Nadu",
+    "Overall Sales": 51911.46,
+    "Total Quantity": 435,
+    "Overall Discount": 0,
+    "Total Profit": 9992.4,
+    "Overall Shipping Cost": 5069.55
+  },
+  {
+    "State": "Telangana",
+    "Overall Sales": 15921.75,
+    "Total Quantity": 162,
+    "Overall Discount": 0,
+    "Total Profit": 3512.61,
+    "Overall Shipping Cost": 1605.64
+  },
+  {
+    "State": "Tripura",
+    "Overall Sales": 646.29,
+    "Total Quantity": 11,
+    "Overall Discount": 0,
+    "Total Profit": 227.58,
+    "Overall Shipping Cost": 44.4
+  },
+  {
+    "State": "Uttar Pradesh",
+    "Overall Sales": 76295.16,
+    "Total Quantity": 831,
+    "Overall Discount": 0,
+    "Total Profit": 17041.29,
+    "Overall Shipping Cost": 7526.97
+  },
+  {
+    "State": "Uttarakhand",
+    "Overall Sales": 7752.33,
+    "Total Quantity": 70,
+    "Overall Discount": 0,
+    "Total Profit": 1515.33,
+    "Overall Shipping Cost": 1319.55
+  },
+  {
+    "State": "West Bengal",
+    "Overall Sales": 16235.91,
+    "Total Quantity": 192,
+    "Overall Discount": 0,
+    "Total Profit": 2751.72,
+    "Overall Shipping Cost": 1843.91
+  }
+]

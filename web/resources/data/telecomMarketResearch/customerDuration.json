@@ -1,0 +1,22 @@
+[
+  {
+    "Customer Duration": "Less then 1 year",
+    "Respondents": 2378
+  },
+  {
+    "Customer Duration": "1 - 3 Years",
+    "Respondents": 2434
+  },
+  {
+    "Customer Duration": "3 - 5 Years ",
+    "Respondents": 623
+  },
+  {
+    "Customer Duration": "5 - 10 Years ",
+    "Respondents": 2415
+  },
+  {
+    "Customer Duration": "More then 5 Years ",
+    "Respondents": 3440
+  }
+]

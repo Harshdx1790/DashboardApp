@@ -1,0 +1,27 @@
+[
+  {
+    "date": "13-Oct-31",
+    "5gb with tethering": 113.44,
+    "5 gb": 435.15,
+    "400 mb": 19.57,
+    "No data Plan": 60.55
+   
+  },
+  {
+    "date": "13-Nov-30",
+    "5gb with tethering": 109.86,
+    "5 gb": 506.85,
+    "400 mb": 18.97,
+    "No data Plan": 58.77
+    
+  },
+  {
+    "date": "13-Dec-31",
+    "5gb with tethering": 113.46,
+    "5 gb": 644.88,
+    "400 mb": 19.57,
+    "No data Plan": 60.57
+    
+    
+  }
+]

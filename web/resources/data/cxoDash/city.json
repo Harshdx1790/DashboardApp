@@ -1,0 +1,83 @@
+[
+
+  {
+    "City": "Delhi",
+    "Overall Sales": 31014.63,
+    "Total Quantity": 209,
+    "Overall Discount": 0,
+    "Total Profit": 5565.9,
+    "Overall Shipping Cost": 3109.03
+  },
+  {
+    "City": "Gorakhpur",
+    "Overall Sales": 22636.17,
+    "Total Quantity": 154,
+    "Overall Discount": 0,
+    "Total Profit": 5575.11,
+    "Overall Shipping Cost": 2234.17
+  },
+  {
+    "City": "Pune",
+    "Overall Sales": 19749.87,
+    "Total Quantity": 164,
+    "Overall Discount": 0,
+    "Total Profit": 5067.63,
+    "Overall Shipping Cost": 1813.77
+  },
+  {
+    "City": "Hyderabad",
+    "Overall Sales": 12925.65,
+    "Total Quantity": 108,
+    "Overall Discount": 0,
+    "Total Profit": 2756.55,
+    "Overall Shipping Cost": 1241.5
+  },
+  {
+    "City": "Bangalore",
+    "Overall Sales": 12499.98,
+    "Total Quantity": 168,
+    "Overall Discount": 0,
+    "Total Profit": 3366.33,
+    "Overall Shipping Cost": 1303.91
+  },
+  {
+    "City": "Agra",
+    "Overall Sales": 12399.45,
+    "Total Quantity": 125,
+    "Overall Discount": 0,
+    "Total Profit": 2568.24,
+    "Overall Shipping Cost": 1408.89
+  },
+  {
+    "City": "Surat",
+    "Overall Sales": 12215.58,
+    "Total Quantity": 121,
+    "Overall Discount": 0,
+    "Total Profit": 3462.72,
+    "Overall Shipping Cost": 1554.16
+  },
+  {
+    "City": "Nagpur",
+    "Overall Sales": 11745.96,
+    "Total Quantity": 83,
+    "Overall Discount": 0,
+    "Total Profit": 2427.81,
+    "Overall Shipping Cost": 1241.16
+  },
+  {
+    "City": "Thane",
+    "Overall Sales": 11543.07,
+    "Total Quantity": 80,
+    "Overall Discount": 0,
+    "Total Profit": 2689.65,
+    "Overall Shipping Cost": 1319.45
+  },
+  {
+    "City": "Chennai",
+    "Overall Sales": 11513.88,
+    "Total Quantity": 153,
+    "Overall Discount": 0,
+    "Total Profit": 2701.68,
+    "Overall Shipping Cost": 1542.84
+  }
+]

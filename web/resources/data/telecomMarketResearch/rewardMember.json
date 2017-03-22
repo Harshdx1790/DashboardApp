@@ -1,0 +1,31 @@
+[{
+        "data": [{
+            "month": "Yes",
+            "count": 2800
+        }, {
+            "month": "No",
+            "count": 1000
+        }],
+        "name": "Series #1"
+    }, {
+        "data": [{
+            "month": "Yes",
+            "count": 1500
+        }, {
+            "month": "No",
+            "count": 300
+        }],
+        "name": "Series #2"
+    
+    }, {
+        "data": [{
+            "month": "Yes",
+            "count": 4200
+        }, {
+            "month": "No",
+            "count": 1700
+        }],
+        "name": "Series #3"
+    }
+
+    ]

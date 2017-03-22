@@ -1,0 +1,167 @@
+[
+
+ {
+   "Region": "East",  
+   "State": "Assam",
+   "Gross Sales": 5340629,
+   "COGS": 3748848.9,
+   "Gross Margin Amount": 1591787.3,
+   "Net Sales": 4504405
+ },
+ {
+     "Region": "East",
+   "State": "Bihar",
+   "Gross Sales": 2991742,
+   "COGS": 2133908.7,
+   "Gross Margin Amount": 857837.9,
+   "Net Sales": 2499434
+ },
+ {
+     "Region": "East",
+   "State": "Jharkhand",
+   "Gross Sales": 2136378,
+   "COGS": 1547907.3,
+   "Gross Margin Amount": 588473.9,
+   "Net Sales": 1749978
+ },
+ {
+     "Region": "East",
+   "State": "Orissa",
+   "Gross Sales": 3864339,
+   "COGS": 2784020,
+   "Gross Margin Amount": 1080329.2,
+   "Net Sales": 3212573
+ },
+ {
+     "Region": "East",
+   "State": "West Bengal",
+   "Gross Sales": 12206740,
+   "COGS": 8629708.1,
+   "Gross Margin Amount": 3577050.2,
+   "Net Sales": 10227732
+ },
+ 
+ {
+     "Region": "North",
+   "State": "Delhi",
+   "Gross Sales": 6658572,
+   "COGS": 4808376.5,
+   "Gross Margin Amount": 1850206.4,
+   "Net Sales": 5695752
+ },
+ {
+     "Region": "North",
+   "State": "Haryana",
+   "Gross Sales": 13304598,
+   "COGS": 9588771.6,
+   "Gross Margin Amount": 3715848.9,
+   "Net Sales": 11040418
+ },
+ {
+     "Region": "North",
+   "State": "Jammu and Kashmir",
+   "Gross Sales": 852431,
+   "COGS": 619735.9,
+   "Gross Margin Amount": 232696.2,
+   "Net Sales": 699249
+ },
+ {
+     "Region": "North",
+   "State": "Punjab",
+   "Gross Sales": 9343849,
+   "COGS": 6816859.8,
+   "Gross Margin Amount": 2527002.2,
+   "Net Sales": 7787435
+ },
+ {
+     "Region": "North",
+   "State": "Uttar Pradesh",
+   "Gross Sales": 15763675,
+   "COGS": 11213989.7,
+   "Gross Margin Amount": 4549712.5,
+   "Net Sales": 13250005
+ },
+ {
+     "Region": "North",
+   "State": "Uttarakhand",
+   "Gross Sales": 762375,
+   "COGS": 556690,
+   "Gross Margin Amount": 205686.4,
+   "Net Sales": 643725
+ },
+ 
+ {
+     "Region": "South",
+   "State": "Andhra Pradesh",
+   "Gross Sales": 14881225,
+   "COGS": 10523958.9,
+   "Gross Margin Amount": 4357294.5,
+   "Net Sales": 12566417
+ },
+ {
+     "Region": "South",
+   "State": "Karnataka",
+   "Gross Sales": 10343378,
+   "COGS": 7513668.5,
+   "Gross Margin Amount": 2829727.3,
+   "Net Sales": 8591641
+ },
+ {
+     "Region": "South",
+   "State": "Kerala",
+   "Gross Sales": 2681411,
+   "COGS": 1951257.4,
+   "Gross Margin Amount": 730156.7,
+   "Net Sales": 2247828
+ },
+ {
+     "Region": "South",
+   "State": "Tamil Nadu",
+   "Gross Sales": 8092973,
+   "COGS": 5823392.5,
+   "Gross Margin Amount": 2269594.5,
+   "Net Sales": 6739208
+ },
+ 
+ {
+      "Region": "West",
+   "State": "Chhattisgarh",
+   "Gross Sales": 1326673,
+   "COGS": 969737,
+   "Gross Margin Amount": 356938.1,
+   "Net Sales": 1097740
+ },
+ {
+      "Region": "West",
+   "State": "Gujarat",
+   "Gross Sales": 10112568,
+   "COGS": 7197913.3,
+   "Gross Margin Amount": 2914673.1,
+   "Net Sales": 8585209
+ },
+ {
+      "Region": "West",
+   "State": "Madhya Pradesh",
+   "Gross Sales": 9246370,
+   "COGS": 6726082.6,
+   "Gross Margin Amount": 2520300.1,
+   "Net Sales": 7722411
+ },
+ {
+      "Region": "West",
+   "State": "Maharashtra",
+   "Gross Sales": 17678494,
+   "COGS": 12747269.7,
+   "Gross Margin Amount": 4931257.1,
+   "Net Sales": 14790735
+ },
+ {
+      "Region": "West",
+   "State": "Rajasthan",
+   "Gross Sales": 6944232,
+   "COGS": 5042872.6,
+   "Gross Margin Amount": 1901371.8,
+   "Net Sales": 5805195
+ }
+ 
+]

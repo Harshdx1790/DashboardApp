@@ -1,0 +1,88 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 13, 2016, 10:08:30 AM
+    Author     : harshvardhan.solanki
+*/
+
+body { font: 12px Arial;}
+
+path { 
+    stroke: #000;
+    stroke-width: .3;
+/*    fill: none;*/
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: grey;
+    stroke-width: 1;
+    shape-rendering: crispEdges;
+}
+.bar {
+  fill: steelblue;
+}
+.axis path {
+  display: none;
+}
+/*svg {
+      background: #eee;
+      }*/
+      
+    #india {
+      /*fill: #008000;*/
+      opacity: .8;
+      /*stroke: #000000;*/
+      stroke-width: .7;
+      }
+
+/*.axis path {
+  display: none;
+}*/
+
+			
+
+			.x.axis line {
+			  stroke: lightgrey;
+			}
+
+			.x.axis .minor {
+			  stroke-opacity: .5;
+			}
+
+			.x.axis path {
+			  display: none;
+			}
+
+			.y.axis line, .y.axis path {
+			  fill: none;
+			  stroke: #000;
+			}
+                        
+                        .lineChart{
+                            fill:#fff;
+                            stroke:#fff;
+                        }  
+                        
+                        }
+
+button {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+}
+
+.bullet { font: 10px sans-serif; }
+.bullet .marker { stroke: #000; stroke-width: 2px; }
+.bullet .tick line { stroke: #666; stroke-width: .5px; }
+.bullet .range.s0 { fill: #eee; }
+.bullet .range.s1 { fill: #ddd; }
+.bullet .range.s2 { fill: #ccc; }
+.bullet .measure.s0 { fill: lightsteelblue; }
+.bullet .measure.s1 { fill: steelblue; }
+.bullet .title { font-size: 14px; font-weight: bold; }
+.bullet .subtitle { fill: #999; }

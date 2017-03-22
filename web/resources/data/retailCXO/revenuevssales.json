@@ -1,0 +1,62 @@
+[
+ {
+   "Time": "Jan",
+   "Revenue": 11160047,
+   "Sales": 8996424
+ },
+ {
+   "Time": "Feb",
+   "Revenue": 14928602,
+   "Sales": 12073446
+ },
+ {
+   "Time":  "Mar",
+   "Revenue": 12509458,
+   "Sales": 10534502
+ },
+ {
+   "Time": "Apr",
+   "Revenue": 12006831,
+   "Sales": 10063465
+ },
+ {
+   "Time": "May",
+   "Revenue": 14081914,
+   "Sales": 11785439
+ },
+ {
+   "Time": "Jun",
+   "Revenue": 11191974,
+   "Sales": 9408374
+ },
+ {
+   "Time": "Jul",
+   "Revenue": 14517320,
+   "Sales": 12246578
+ },
+ {
+   "Time": "Aug",
+   "Revenue": 12560338,
+   "Sales": 10474107
+ },
+ {
+   "Time": "Sep",
+   "Revenue": 11729624,
+   "Sales": 9873428
+ },
+ {
+   "Time": "Oct",
+   "Revenue": 13173405,
+   "Sales": 10944441
+ },
+ {
+   "Time": "Nov",
+   "Revenue": 13331702,
+   "Sales": 11597680
+ },
+ {
+   "Time": "Dec",
+   "Revenue": 13341437,
+   "Sales": 11459206
+ }
+]

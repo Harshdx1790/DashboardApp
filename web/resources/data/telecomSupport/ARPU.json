@@ -1,0 +1,38 @@
+[
+  {
+    "Plan": "400 minutes",
+    "ARPU": 20
+  },
+  {
+    "Plan": "550 minutes",
+    "ARPU": 40
+  },
+  {
+    "Plan": "500 minutes",
+    "ARPU": 45
+  },
+  {
+    "Plan": "700 minutes ",
+    "ARPU": 50
+  },
+  {
+    "Plan": "750 minutes",
+    "ARPU": 60
+  },
+  {
+    "Plan": "900 minutes",
+    "ARPU": 55
+  },
+  {
+    "Plan": "999 minutes ",
+    "ARPU": 70
+  },
+  {
+    "Plan": "1200 minutes ",
+    "ARPU": 100
+  },
+  {
+    "Plan": "Unlimited minutes ",
+    "ARPU": 150
+  }
+]

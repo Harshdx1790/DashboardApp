@@ -1,0 +1,366 @@
+[
+  {
+    "State": "AK",
+    "Balance": 10180.49,
+    "Credit Limit": 54772.6,
+    "Number of Cards": 14.02929,
+    "Utilization": 173.8879
+  },
+  {
+    "State": "AL",
+    "Balance": 9372.96,
+    "Credit Limit": 60205.69,
+    "Number of Cards": 18.46391,
+    "Utilization": 169.5649
+  },
+  {
+    "State": "AR",
+    "Balance": 9729.2,
+    "Credit Limit": 59511.38,
+    "Number of Cards": 17.44626,
+    "Utilization": 174.1679
+  },
+  {
+    "State": "AZ",
+    "Balance": 8430.04,
+    "Credit Limit": 58044.52,
+    "Number of Cards": 17.70753,
+    "Utilization": 156.057
+  },
+  {
+    "State": "CA",
+    "Balance": 7629.82,
+    "Credit Limit": 59254.07,
+    "Number of Cards": 20.5128,
+    "Utilization": 142.7715
+  },
+  {
+    "State": "CO",
+    "Balance": 7789.74,
+    "Credit Limit": 59834.32,
+    "Number of Cards": 17.29678,
+    "Utilization": 138.5865
+  },
+  {
+    "State": "CT",
+    "Balance": 7152,
+    "Credit Limit": 65370.26,
+    "Number of Cards": 22.68207,
+    "Utilization": 118.432
+  },
+  {
+    "State": "DC",
+    "Balance": 6701.53,
+    "Credit Limit": 49306.77,
+    "Number of Cards": 16.98695,
+    "Utilization": 139.1976
+  },
+  {
+    "State": "DE",
+    "Balance": 8971.38,
+    "Credit Limit": 66847.35,
+    "Number of Cards": 21.25325,
+    "Utilization": 146.3586
+  },
+  {
+    "State": "FL",
+    "Balance": 8858.83,
+    "Credit Limit": 65724.29,
+    "Number of Cards": 20.5895,
+    "Utilization": 151.1962
+  },
+  {
+    "State": "GA",
+    "Balance": 9648.61,
+    "Credit Limit": 66261.85,
+    "Number of Cards": 20.5082,
+    "Utilization": 167.6625
+  },
+  {
+    "State": "HI",
+    "Balance": 6786.22,
+    "Credit Limit": 54816.53,
+    "Number of Cards": 17.14249,
+    "Utilization": 123.7851
+  },
+  {
+    "State": "IA",
+    "Balance": 6772.79,
+    "Credit Limit": 58445.35,
+    "Number of Cards": 18.23438,
+    "Utilization": 122.1901
+  },
+  {
+    "State": "ID",
+    "Balance": 6990.47,
+    "Credit Limit": 54643.99,
+    "Number of Cards": 17.4801,
+    "Utilization": 132.1993
+  },
+  {
+    "State": "IL",
+    "Balance": 8060.96,
+    "Credit Limit": 64791.7,
+    "Number of Cards": 20.72682,
+    "Utilization": 137.7619
+  },
+  {
+    "State": "IN",
+    "Balance": 8375.54,
+    "Credit Limit": 63172.6,
+    "Number of Cards": 20.43612,
+    "Utilization": 146.7457
+  },
+  {
+    "State": "KS",
+    "Balance": 7942.45,
+    "Credit Limit": 60520.28,
+    "Number of Cards": 17.99306,
+    "Utilization": 139.5416
+  },
+  {
+    "State": "KY",
+    "Balance": 8599.58,
+    "Credit Limit": 62466.09,
+    "Number of Cards": 20.08827,
+    "Utilization": 153.5084
+  },
+  {
+    "State": "LA",
+    "Balance": 9066.23,
+    "Credit Limit": 58953.36,
+    "Number of Cards": 18.1345,
+    "Utilization": 170.2938
+  },
+  {
+    "State": "MA",
+    "Balance": 6599.51,
+    "Credit Limit": 64843.17,
+    "Number of Cards": 21.47002,
+    "Utilization": 114.0557
+  },
+  {
+    "State": "MD",
+    "Balance": 8234.25,
+    "Credit Limit": 63628.8,
+    "Number of Cards": 20.39435,
+    "Utilization": 142.0027
+  },
+  {
+    "State": "ME",
+    "Balance": 6353.55,
+    "Credit Limit": 54105.11,
+    "Number of Cards": 17.10314,
+    "Utilization": 123.3848
+  },
+  {
+    "State": "MI",
+    "Balance": 8009.23,
+    "Credit Limit": 60814.23,
+    "Number of Cards": 19.19509,
+    "Utilization": 140.4333
+  },
+  {
+    "State": "MN",
+    "Balance": 6395.79,
+    "Credit Limit": 59264.18,
+    "Number of Cards": 18.48096,
+    "Utilization": 113.5749
+  },
+  {
+    "State": "MO",
+    "Balance": 8057.11,
+    "Credit Limit": 60671.39,
+    "Number of Cards": 18.98003,
+    "Utilization": 141.2656
+  },
+  {
+    "State": "MS",
+    "Balance": 9164.15,
+    "Credit Limit": 57573.05,
+    "Number of Cards": 17.20824,
+    "Utilization": 177.2194
+  },
+  {
+    "State": "MT",
+    "Balance": 6449.94,
+    "Credit Limit": 53473.87,
+    "Number of Cards": 15.45062,
+    "Utilization": 115.7339
+  },
+  {
+    "State": "NC",
+    "Balance": 9084.55,
+    "Credit Limit": 63039.86,
+    "Number of Cards": 18.14972,
+    "Utilization": 160.1332
+  },
+  {
+    "State": "ND",
+    "Balance": 7178.5,
+    "Credit Limit": 55735.08,
+    "Number of Cards": 17.43411,
+    "Utilization": 118.9025
+  },
+  {
+    "State": "NE",
+    "Balance": 8656.55,
+    "Credit Limit": 66739.82,
+    "Number of Cards": 19.30003,
+    "Utilization": 140.5588
+  },
+  {
+    "State": "NH",
+    "Balance": 7283.97,
+    "Credit Limit": 63737.08,
+    "Number of Cards": 20.06208,
+    "Utilization": 119.7677
+  },
+  {
+    "State": "NJ",
+    "Balance": 7925.14,
+    "Credit Limit": 72137.81,
+    "Number of Cards": 26.57908,
+    "Utilization": 123.3587
+  },
+  {
+    "State": "NM",
+    "Balance": 8899.84,
+    "Credit Limit": 55887.98,
+    "Number of Cards": 16.44702,
+    "Utilization": 169.9967
+  },
+  {
+    "State": "NV",
+    "Balance": 9026.57,
+    "Credit Limit": 61346.78,
+    "Number of Cards": 19.61561,
+    "Utilization": 166.0019
+  },
+  {
+    "State": "NY",
+    "Balance": 7873.53,
+    "Credit Limit": 65663.55,
+    "Number of Cards": 23.53,
+    "Utilization": 131.5066
+  },
+  {
+    "State": "OH",
+    "Balance": 8167.35,
+    "Credit Limit": 66823.36,
+    "Number of Cards": 21.7802,
+    "Utilization": 136.0354
+  },
+  {
+    "State": "OK",
+    "Balance": 8300.41,
+    "Credit Limit": 53714.93,
+    "Number of Cards": 16.22704,
+    "Utilization": 163.3047
+  },
+  {
+    "State": "OR",
+    "Balance": 6080.48,
+    "Credit Limit": 52135.57,
+    "Number of Cards": 15.92256,
+    "Utilization": 118.4654
+  },
+  {
+    "State": "PA",
+    "Balance": 7688.64,
+    "Credit Limit": 68740.47,
+    "Number of Cards": 22.46775,
+    "Utilization": 124.0195
+  },
+  {
+    "State": "RI",
+    "Balance": 7544.9,
+    "Credit Limit": 68853.33,
+    "Number of Cards": 22.53786,
+    "Utilization": 119.2161
+  },
+  {
+    "State": "SC",
+    "Balance": 8767.91,
+    "Credit Limit": 60966.67,
+    "Number of Cards": 18.07273,
+    "Utilization": 163.8365
+  },
+  {
+    "State": "SD",
+    "Balance": 5816,
+    "Credit Limit": 51543.47,
+    "Number of Cards": 15.7446,
+    "Utilization": 111.0973
+  },
+  {
+    "State": "TN",
+    "Balance": 8539.3,
+    "Credit Limit": 60484.43,
+    "Number of Cards": 17.96568,
+    "Utilization": 153.9618
+  },
+  {
+    "State": "TX",
+    "Balance": 10286.93,
+    "Credit Limit": 61371.62,
+    "Number of Cards": 19.48117,
+    "Utilization": 186.1712
+  },
+  {
+    "State": "US",
+    "Balance": 8180.05,
+    "Credit Limit": 62331.41,
+    "Number of Cards": 20.0344398,
+    "Utilization": 144.2767081
+  },
+  {
+    "State": "UT",
+    "Balance": 8146.51,
+    "Credit Limit": 60171.76,
+    "Number of Cards": 15.96892,
+    "Utilization": 144.9295
+  },
+  {
+    "State": "VA",
+    "Balance": 8414.52,
+    "Credit Limit": 63587.89,
+    "Number of Cards": 19.32212,
+    "Utilization": 145.7361
+  },
+  {
+    "State": "VT",
+    "Balance": 5992.05,
+    "Credit Limit": 56404.64,
+    "Number of Cards": 17.048,
+    "Utilization": 101.8617
+  },
+  {
+    "State": "WA",
+    "Balance": 6834.45,
+    "Credit Limit": 56679.55,
+    "Number of Cards": 18.73669,
+    "Utilization": 124.3241
+  },
+  {
+    "State": "WI",
+    "Balance": 6508.86,
+    "Credit Limit": 61040.3,
+    "Number of Cards": 18.83817,
+    "Utilization": 114.9565
+  },
+  {
+    "State": "WV",
+    "Balance": 8734.69,
+    "Credit Limit": 64327.96,
+    "Number of Cards": 19.15403,
+    "Utilization": 154.6693
+  },
+  {
+    "State": "WY",
+    "Balance": 9688.43,
+    "Credit Limit": 56823.97,
+    "Number of Cards": 15.16581,
+    "Utilization": 158.5051
+  }
+]

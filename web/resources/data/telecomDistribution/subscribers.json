@@ -1,0 +1,7 @@
+[
+  {"title":"Q1","ranges":[80,40],"measures":[60],"markers":[50]},
+  {"title":"Q2","ranges":[84,44.5],"measures":[63.5],"markers":[50]},
+  {"title":"Q3","ranges":[88,47],"measures":[67],"markers":[50]},
+  {"title":"Q4","ranges":[92,50],"measures":[75],"markers":[50]}
+
+]

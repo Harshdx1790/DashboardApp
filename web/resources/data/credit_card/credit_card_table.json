@@ -1,0 +1,4691 @@
+[
+  {
+    "State": "AK",
+    "Year": "11/1/2006",
+    "Balance": 1116.61,
+    "Credit Limit": 5706.81,
+    "Number of Cards": 1.65677,
+    "Utilization": 18.0181,
+    "Rating": 745.215
+  },
+  {
+    "State": "AK",
+    "Year": "12/1/2006",
+    "Balance": 1153.06,
+    "Credit Limit": 5556.6,
+    "Number of Cards": 1.63484,
+    "Utilization": 18.9393,
+    "Rating": 744.901
+  },
+  {
+    "State": "AK",
+    "Year": "11/1/2007",
+    "Balance": 996.05,
+    "Credit Limit": 6022.16,
+    "Number of Cards": 1.60518,
+    "Utilization": 17.6925,
+    "Rating": 748.359
+  },
+  {
+    "State": "AK",
+    "Year": "12/1/2007",
+    "Balance": 1041.13,
+    "Credit Limit": 5525.31,
+    "Number of Cards": 1.55102,
+    "Utilization": 17.3582,
+    "Rating": 750.571
+  },
+  {
+    "State": "AK",
+    "Year": "11/1/2008",
+    "Balance": 1007.93,
+    "Credit Limit": 5553.55,
+    "Number of Cards": 1.41029,
+    "Utilization": 17.4,
+    "Rating": 756.273
+  },
+  {
+    "State": "AK",
+    "Year": "12/1/2008",
+    "Balance": 1000,
+    "Credit Limit": 5521.63,
+    "Number of Cards": 1.39774,
+    "Utilization": 17.9216,
+    "Rating": 755.996
+  },
+  {
+    "State": "AK",
+    "Year": "11/1/2009",
+    "Balance": 1025.82,
+    "Credit Limit": 5381,
+    "Number of Cards": 1.23463,
+    "Utilization": 16.9709,
+    "Rating": 755.539
+  },
+  {
+    "State": "AK",
+    "Year": "12/1/2009",
+    "Balance": 995.41,
+    "Credit Limit": 5451.28,
+    "Number of Cards": 1.2381,
+    "Utilization": 17.4131,
+    "Rating": 755.266
+  },
+  {
+    "State": "AK",
+    "Year": "11/1/2010",
+    "Balance": 900.65,
+    "Credit Limit": 5172.62,
+    "Number of Cards": 1.16395,
+    "Utilization": 16.1535,
+    "Rating": 762.309
+  },
+  {
+    "State": "AK",
+    "Year": "12/1/2010",
+    "Balance": 943.83,
+    "Credit Limit": 4881.64,
+    "Number of Cards": 1.13677,
+    "Utilization": 16.0207,
+    "Rating": 756.691
+  },
+  {
+    "State": "AL",
+    "Year": "11/1/2006",
+    "Balance": 889.91,
+    "Credit Limit": 6228,
+    "Number of Cards": 2.06202,
+    "Utilization": 16.0596,
+    "Rating": 732.501
+  },
+  {
+    "State": "AL",
+    "Year": "12/1/2006",
+    "Balance": 896.73,
+    "Credit Limit": 6162.53,
+    "Number of Cards": 2.04104,
+    "Utilization": 16.3216,
+    "Rating": 731.335
+  },
+  {
+    "State": "AL",
+    "Year": "11/1/2007",
+    "Balance": 901.64,
+    "Credit Limit": 6477.72,
+    "Number of Cards": 2.13622,
+    "Utilization": 15.2558,
+    "Rating": 733.758
+  },
+  {
+    "State": "AL",
+    "Year": "12/1/2007",
+    "Balance": 952.15,
+    "Credit Limit": 6523.24,
+    "Number of Cards": 2.1424,
+    "Utilization": 16.1652,
+    "Rating": 732.333
+  },
+  {
+    "State": "AL",
+    "Year": "11/1/2008",
+    "Balance": 986.1,
+    "Credit Limit": 6243.31,
+    "Number of Cards": 1.82161,
+    "Utilization": 17.3722,
+    "Rating": 733.642
+  },
+  {
+    "State": "AL",
+    "Year": "12/1/2008",
+    "Balance": 995.98,
+    "Credit Limit": 6163.48,
+    "Number of Cards": 1.82169,
+    "Utilization": 18.1745,
+    "Rating": 733.368
+  },
+  {
+    "State": "AL",
+    "Year": "11/1/2009",
+    "Balance": 942.75,
+    "Credit Limit": 5713.12,
+    "Number of Cards": 1.65476,
+    "Utilization": 17.2841,
+    "Rating": 729.676
+  },
+  {
+    "State": "AL",
+    "Year": "12/1/2009",
+    "Balance": 955.36,
+    "Credit Limit": 5696.54,
+    "Number of Cards": 1.65631,
+    "Utilization": 17.6107,
+    "Rating": 728.83
+  },
+  {
+    "State": "AL",
+    "Year": "11/1/2010",
+    "Balance": 904.91,
+    "Credit Limit": 5398.26,
+    "Number of Cards": 1.55514,
+    "Utilization": 16.9775,
+    "Rating": 729.664
+  },
+  {
+    "State": "AL",
+    "Year": "12/1/2010",
+    "Balance": 947.43,
+    "Credit Limit": 5599.49,
+    "Number of Cards": 1.57272,
+    "Utilization": 18.3437,
+    "Rating": 728.014
+  },
+  {
+    "State": "AR",
+    "Year": "11/1/2006",
+    "Balance": 937.12,
+    "Credit Limit": 6492.78,
+    "Number of Cards": 2.0245,
+    "Utilization": 16.0656,
+    "Rating": 728.03
+  },
+  {
+    "State": "AR",
+    "Year": "12/1/2006",
+    "Balance": 940.84,
+    "Credit Limit": 6294.09,
+    "Number of Cards": 1.99478,
+    "Utilization": 16.8127,
+    "Rating": 726.399
+  },
+  {
+    "State": "AR",
+    "Year": "11/1/2007",
+    "Balance": 1009.09,
+    "Credit Limit": 6637.1,
+    "Number of Cards": 2.04403,
+    "Utilization": 16.3111,
+    "Rating": 733.102
+  },
+  {
+    "State": "AR",
+    "Year": "12/1/2007",
+    "Balance": 1033.33,
+    "Credit Limit": 6452.31,
+    "Number of Cards": 2.02622,
+    "Utilization": 17.0975,
+    "Rating": 730.112
+  },
+  {
+    "State": "AR",
+    "Year": "11/1/2008",
+    "Balance": 1023.27,
+    "Credit Limit": 6003.52,
+    "Number of Cards": 1.67477,
+    "Utilization": 18.3614,
+    "Rating": 727.409
+  },
+  {
+    "State": "AR",
+    "Year": "12/1/2008",
+    "Balance": 1042.04,
+    "Credit Limit": 5908.42,
+    "Number of Cards": 1.67441,
+    "Utilization": 18.9272,
+    "Rating": 726.709
+  },
+  {
+    "State": "AR",
+    "Year": "11/1/2009",
+    "Balance": 957.07,
+    "Credit Limit": 5580.67,
+    "Number of Cards": 1.54939,
+    "Utilization": 17.9882,
+    "Rating": 722.845
+  },
+  {
+    "State": "AR",
+    "Year": "12/1/2009",
+    "Balance": 1006.99,
+    "Credit Limit": 5588.81,
+    "Number of Cards": 1.54888,
+    "Utilization": 18.5604,
+    "Rating": 721.704
+  },
+  {
+    "State": "AR",
+    "Year": "11/1/2010",
+    "Balance": 865.02,
+    "Credit Limit": 5247.22,
+    "Number of Cards": 1.4668,
+    "Utilization": 16.5825,
+    "Rating": 723.35
+  },
+  {
+    "State": "AR",
+    "Year": "12/1/2010",
+    "Balance": 914.43,
+    "Credit Limit": 5306.46,
+    "Number of Cards": 1.44248,
+    "Utilization": 17.4613,
+    "Rating": 725.657
+  },
+  {
+    "State": "AZ",
+    "Year": "11/1/2006",
+    "Balance": 775.6,
+    "Credit Limit": 5934.02,
+    "Number of Cards": 2.0674,
+    "Utilization": 14.3649,
+    "Rating": 747.997
+  },
+  {
+    "State": "AZ",
+    "Year": "12/1/2006",
+    "Balance": 799.16,
+    "Credit Limit": 5896.95,
+    "Number of Cards": 2.17909,
+    "Utilization": 14.4412,
+    "Rating": 747.625
+  },
+  {
+    "State": "AZ",
+    "Year": "11/1/2007",
+    "Balance": 803.95,
+    "Credit Limit": 6250.73,
+    "Number of Cards": 2.14608,
+    "Utilization": 14.0865,
+    "Rating": 747.486
+  },
+  {
+    "State": "AZ",
+    "Year": "12/1/2007",
+    "Balance": 818.02,
+    "Credit Limit": 6281.21,
+    "Number of Cards": 2.15947,
+    "Utilization": 14.4528,
+    "Rating": 746.969
+  },
+  {
+    "State": "AZ",
+    "Year": "11/1/2008",
+    "Balance": 870,
+    "Credit Limit": 6084.54,
+    "Number of Cards": 1.76927,
+    "Utilization": 16.1728,
+    "Rating": 741.382
+  },
+  {
+    "State": "AZ",
+    "Year": "12/1/2008",
+    "Balance": 886.17,
+    "Credit Limit": 6046.54,
+    "Number of Cards": 1.75965,
+    "Utilization": 16.6645,
+    "Rating": 740.517
+  },
+  {
+    "State": "AZ",
+    "Year": "11/1/2009",
+    "Balance": 896.82,
+    "Credit Limit": 5778.23,
+    "Number of Cards": 1.45852,
+    "Utilization": 16.3175,
+    "Rating": 733.791
+  },
+  {
+    "State": "AZ",
+    "Year": "12/1/2009",
+    "Balance": 907.97,
+    "Credit Limit": 5762.74,
+    "Number of Cards": 1.4533,
+    "Utilization": 16.7371,
+    "Rating": 732.821
+  },
+  {
+    "State": "AZ",
+    "Year": "11/1/2010",
+    "Balance": 835.73,
+    "Credit Limit": 4996.08,
+    "Number of Cards": 1.36922,
+    "Utilization": 15.9455,
+    "Rating": 733.308
+  },
+  {
+    "State": "AZ",
+    "Year": "12/1/2010",
+    "Balance": 836.62,
+    "Credit Limit": 5013.48,
+    "Number of Cards": 1.34553,
+    "Utilization": 16.8742,
+    "Rating": 730.174
+  },
+  {
+    "State": "CA",
+    "Year": "11/1/2006",
+    "Balance": 719.43,
+    "Credit Limit": 6150.33,
+    "Number of Cards": 2.2986,
+    "Utilization": 13.2059,
+    "Rating": 761.895
+  },
+  {
+    "State": "CA",
+    "Year": "12/1/2006",
+    "Balance": 724.49,
+    "Credit Limit": 6035.22,
+    "Number of Cards": 2.39028,
+    "Utilization": 13.5747,
+    "Rating": 760.933
+  },
+  {
+    "State": "CA",
+    "Year": "11/1/2007",
+    "Balance": 729.87,
+    "Credit Limit": 6529.61,
+    "Number of Cards": 2.41654,
+    "Utilization": 12.6242,
+    "Rating": 760.094
+  },
+  {
+    "State": "CA",
+    "Year": "12/1/2007",
+    "Balance": 768.16,
+    "Credit Limit": 6555.63,
+    "Number of Cards": 2.43842,
+    "Utilization": 13.2315,
+    "Rating": 758.987
+  },
+  {
+    "State": "CA",
+    "Year": "11/1/2008",
+    "Balance": 778.43,
+    "Credit Limit": 6261.79,
+    "Number of Cards": 2.11231,
+    "Utilization": 14.26,
+    "Rating": 754.807
+  },
+  {
+    "State": "CA",
+    "Year": "12/1/2008",
+    "Balance": 799.91,
+    "Credit Limit": 6229.43,
+    "Number of Cards": 2.10599,
+    "Utilization": 14.7559,
+    "Rating": 753.423
+  },
+  {
+    "State": "CA",
+    "Year": "11/1/2009",
+    "Balance": 795.14,
+    "Credit Limit": 5863.8,
+    "Number of Cards": 1.71704,
+    "Utilization": 14.9808,
+    "Rating": 747.769
+  },
+  {
+    "State": "CA",
+    "Year": "12/1/2009",
+    "Balance": 813.32,
+    "Credit Limit": 5870.77,
+    "Number of Cards": 1.72334,
+    "Utilization": 15.5506,
+    "Rating": 747.11
+  },
+  {
+    "State": "CA",
+    "Year": "11/1/2010",
+    "Balance": 740.36,
+    "Credit Limit": 4887.34,
+    "Number of Cards": 1.64583,
+    "Utilization": 15.0593,
+    "Rating": 747.662
+  },
+  {
+    "State": "CA",
+    "Year": "12/1/2010",
+    "Balance": 760.71,
+    "Credit Limit": 4870.15,
+    "Number of Cards": 1.66445,
+    "Utilization": 15.5286,
+    "Rating": 745.985
+  },
+  {
+    "State": "CO",
+    "Year": "11/1/2006",
+    "Balance": 740.97,
+    "Credit Limit": 5878.24,
+    "Number of Cards": 1.94396,
+    "Utilization": 13.1304,
+    "Rating": 767.004
+  },
+  {
+    "State": "CO",
+    "Year": "12/1/2006",
+    "Balance": 747.53,
+    "Credit Limit": 5871.73,
+    "Number of Cards": 2.08366,
+    "Utilization": 13.1376,
+    "Rating": 766.344
+  },
+  {
+    "State": "CO",
+    "Year": "11/1/2007",
+    "Balance": 718.49,
+    "Credit Limit": 6382.29,
+    "Number of Cards": 2.13142,
+    "Utilization": 12.0298,
+    "Rating": 770.02
+  },
+  {
+    "State": "CO",
+    "Year": "12/1/2007",
+    "Balance": 759.4,
+    "Credit Limit": 6374.19,
+    "Number of Cards": 2.13973,
+    "Utilization": 12.7008,
+    "Rating": 767.689
+  },
+  {
+    "State": "CO",
+    "Year": "11/1/2008",
+    "Balance": 822.14,
+    "Credit Limit": 6362.25,
+    "Number of Cards": 1.60041,
+    "Utilization": 14.1144,
+    "Rating": 767.301
+  },
+  {
+    "State": "CO",
+    "Year": "12/1/2008",
+    "Balance": 840.82,
+    "Credit Limit": 6310.9,
+    "Number of Cards": 1.59936,
+    "Utilization": 14.6095,
+    "Rating": 766.731
+  },
+  {
+    "State": "CO",
+    "Year": "11/1/2009",
+    "Balance": 798.43,
+    "Credit Limit": 5922.87,
+    "Number of Cards": 1.45484,
+    "Utilization": 14.2631,
+    "Rating": 763.618
+  },
+  {
+    "State": "CO",
+    "Year": "12/1/2009",
+    "Balance": 810.88,
+    "Credit Limit": 5936.79,
+    "Number of Cards": 1.45952,
+    "Utilization": 14.7087,
+    "Rating": 763.046
+  },
+  {
+    "State": "CO",
+    "Year": "11/1/2010",
+    "Balance": 758.43,
+    "Credit Limit": 5337.42,
+    "Number of Cards": 1.41645,
+    "Utilization": 15.0261,
+    "Rating": 764.022
+  },
+  {
+    "State": "CO",
+    "Year": "12/1/2010",
+    "Balance": 792.65,
+    "Credit Limit": 5457.64,
+    "Number of Cards": 1.46743,
+    "Utilization": 14.8661,
+    "Rating": 764.299
+  },
+  {
+    "State": "CT",
+    "Year": "11/1/2006",
+    "Balance": 752.1,
+    "Credit Limit": 6908.1,
+    "Number of Cards": 2.30588,
+    "Utilization": 11.7811,
+    "Rating": 776.656
+  },
+  {
+    "State": "CT",
+    "Year": "12/1/2006",
+    "Balance": 739.25,
+    "Credit Limit": 6827.7,
+    "Number of Cards": 2.59341,
+    "Utilization": 11.8316,
+    "Rating": 775.746
+  },
+  {
+    "State": "CT",
+    "Year": "11/1/2007",
+    "Balance": 715.03,
+    "Credit Limit": 7116.04,
+    "Number of Cards": 2.64869,
+    "Utilization": 10.8225,
+    "Rating": 779.721
+  },
+  {
+    "State": "CT",
+    "Year": "12/1/2007",
+    "Balance": 732.72,
+    "Credit Limit": 7063.71,
+    "Number of Cards": 2.63531,
+    "Utilization": 11.502,
+    "Rating": 776.809
+  },
+  {
+    "State": "CT",
+    "Year": "11/1/2008",
+    "Balance": 671.89,
+    "Credit Limit": 6692.37,
+    "Number of Cards": 2.27,
+    "Utilization": 11.3945,
+    "Rating": 775.159
+  },
+  {
+    "State": "CT",
+    "Year": "12/1/2008",
+    "Balance": 699.02,
+    "Credit Limit": 6647.78,
+    "Number of Cards": 2.25512,
+    "Utilization": 12.1606,
+    "Rating": 774.184
+  },
+  {
+    "State": "CT",
+    "Year": "11/1/2009",
+    "Balance": 715.77,
+    "Credit Limit": 6446.16,
+    "Number of Cards": 2.027,
+    "Utilization": 11.8546,
+    "Rating": 776.683
+  },
+  {
+    "State": "CT",
+    "Year": "12/1/2009",
+    "Balance": 740.22,
+    "Credit Limit": 6451.93,
+    "Number of Cards": 2.03746,
+    "Utilization": 12.5484,
+    "Rating": 775.319
+  },
+  {
+    "State": "CT",
+    "Year": "11/1/2010",
+    "Balance": 670.23,
+    "Credit Limit": 5654.76,
+    "Number of Cards": 1.95478,
+    "Utilization": 11.9223,
+    "Rating": 776.474
+  },
+  {
+    "State": "CT",
+    "Year": "12/1/2010",
+    "Balance": 715.77,
+    "Credit Limit": 5561.71,
+    "Number of Cards": 1.95442,
+    "Utilization": 12.6144,
+    "Rating": 774.979
+  },
+  {
+    "State": "DC",
+    "Year": "11/1/2006",
+    "Balance": 670.04,
+    "Credit Limit": 4797.89,
+    "Number of Cards": 1.63846,
+    "Utilization": 13.1687,
+    "Rating": 734.144
+  },
+  {
+    "State": "DC",
+    "Year": "12/1/2006",
+    "Balance": 589.1,
+    "Credit Limit": 4940.77,
+    "Number of Cards": 1.84485,
+    "Utilization": 13.3257,
+    "Rating": 734.422
+  },
+  {
+    "State": "DC",
+    "Year": "11/1/2007",
+    "Balance": 756.95,
+    "Credit Limit": 5479.41,
+    "Number of Cards": 1.92256,
+    "Utilization": 12.6857,
+    "Rating": 739.003
+  },
+  {
+    "State": "DC",
+    "Year": "12/1/2007",
+    "Balance": 725.49,
+    "Credit Limit": 5355,
+    "Number of Cards": 1.92216,
+    "Utilization": 12.9196,
+    "Rating": 738.518
+  },
+  {
+    "State": "DC",
+    "Year": "11/1/2008",
+    "Balance": 623.58,
+    "Credit Limit": 5081.54,
+    "Number of Cards": 1.67297,
+    "Utilization": 13.7933,
+    "Rating": 737.945
+  },
+  {
+    "State": "DC",
+    "Year": "12/1/2008",
+    "Balance": 586.64,
+    "Credit Limit": 5091.43,
+    "Number of Cards": 1.68996,
+    "Utilization": 13.7648,
+    "Rating": 735.037
+  },
+  {
+    "State": "DC",
+    "Year": "11/1/2009",
+    "Balance": 609.15,
+    "Credit Limit": 5108.54,
+    "Number of Cards": 1.58519,
+    "Utilization": 14.587,
+    "Rating": 734.956
+  },
+  {
+    "State": "DC",
+    "Year": "12/1/2009",
+    "Balance": 623.11,
+    "Credit Limit": 5070.92,
+    "Number of Cards": 1.59091,
+    "Utilization": 13.6736,
+    "Rating": 735.413
+  },
+  {
+    "State": "DC",
+    "Year": "11/1/2010",
+    "Balance": 664.9,
+    "Credit Limit": 3954.8,
+    "Number of Cards": 1.49925,
+    "Utilization": 15.3201,
+    "Rating": 734.489
+  },
+  {
+    "State": "DC",
+    "Year": "12/1/2010",
+    "Balance": 852.57,
+    "Credit Limit": 4426.47,
+    "Number of Cards": 1.62064,
+    "Utilization": 15.9591,
+    "Rating": 737.549
+  },
+  {
+    "State": "DE",
+    "Year": "11/1/2006",
+    "Balance": 925.4,
+    "Credit Limit": 6774.26,
+    "Number of Cards": 2.2379,
+    "Utilization": 14.722,
+    "Rating": 762.496
+  },
+  {
+    "State": "DE",
+    "Year": "12/1/2006",
+    "Balance": 905.96,
+    "Credit Limit": 6754.41,
+    "Number of Cards": 2.39751,
+    "Utilization": 14.825,
+    "Rating": 761.127
+  },
+  {
+    "State": "DE",
+    "Year": "11/1/2007",
+    "Balance": 742.75,
+    "Credit Limit": 7099.95,
+    "Number of Cards": 2.37218,
+    "Utilization": 12.1157,
+    "Rating": 761.328
+  },
+  {
+    "State": "DE",
+    "Year": "12/1/2007",
+    "Balance": 893.01,
+    "Credit Limit": 7295.77,
+    "Number of Cards": 2.42434,
+    "Utilization": 13.6981,
+    "Rating": 760.623
+  },
+  {
+    "State": "DE",
+    "Year": "11/1/2008",
+    "Balance": 914.84,
+    "Credit Limit": 6839.4,
+    "Number of Cards": 2.11438,
+    "Utilization": 15.0513,
+    "Rating": 758.358
+  },
+  {
+    "State": "DE",
+    "Year": "12/1/2008",
+    "Balance": 937.25,
+    "Credit Limit": 6786.86,
+    "Number of Cards": 2.10912,
+    "Utilization": 15.525,
+    "Rating": 758.257
+  },
+  {
+    "State": "DE",
+    "Year": "11/1/2009",
+    "Balance": 925.17,
+    "Credit Limit": 6659.96,
+    "Number of Cards": 1.92037,
+    "Utilization": 14.6815,
+    "Rating": 751.782
+  },
+  {
+    "State": "DE",
+    "Year": "12/1/2009",
+    "Balance": 964.84,
+    "Credit Limit": 6796.61,
+    "Number of Cards": 1.94152,
+    "Utilization": 15.8474,
+    "Rating": 751.111
+  },
+  {
+    "State": "DE",
+    "Year": "11/1/2010",
+    "Balance": 901.39,
+    "Credit Limit": 5983.42,
+    "Number of Cards": 1.84325,
+    "Utilization": 15.7068,
+    "Rating": 752.437
+  },
+  {
+    "State": "DE",
+    "Year": "12/1/2010",
+    "Balance": 860.77,
+    "Credit Limit": 5856.71,
+    "Number of Cards": 1.89268,
+    "Utilization": 14.1858,
+    "Rating": 752.404
+  },
+  {
+    "State": "FL",
+    "Year": "11/1/2006",
+    "Balance": 856.78,
+    "Credit Limit": 7172.74,
+    "Number of Cards": 2.39434,
+    "Utilization": 13.8328,
+    "Rating": 750.843
+  },
+  {
+    "State": "FL",
+    "Year": "12/1/2006",
+    "Balance": 865.33,
+    "Credit Limit": 7048.72,
+    "Number of Cards": 2.37761,
+    "Utilization": 14.1031,
+    "Rating": 749.723
+  },
+  {
+    "State": "FL",
+    "Year": "11/1/2007",
+    "Balance": 874,
+    "Credit Limit": 7259.24,
+    "Number of Cards": 2.4092,
+    "Utilization": 13.8261,
+    "Rating": 749.561
+  },
+  {
+    "State": "FL",
+    "Year": "12/1/2007",
+    "Balance": 887.58,
+    "Credit Limit": 7248.58,
+    "Number of Cards": 2.41241,
+    "Utilization": 14.2051,
+    "Rating": 748.445
+  },
+  {
+    "State": "FL",
+    "Year": "11/1/2008",
+    "Balance": 909.98,
+    "Credit Limit": 6701.52,
+    "Number of Cards": 2.02366,
+    "Utilization": 15.4977,
+    "Rating": 742.846
+  },
+  {
+    "State": "FL",
+    "Year": "12/1/2008",
+    "Balance": 928.29,
+    "Credit Limit": 6689.53,
+    "Number of Cards": 2.03779,
+    "Utilization": 15.8751,
+    "Rating": 741.367
+  },
+  {
+    "State": "FL",
+    "Year": "11/1/2009",
+    "Balance": 897.08,
+    "Credit Limit": 6312.96,
+    "Number of Cards": 1.7836,
+    "Utilization": 15.7426,
+    "Rating": 733.8
+  },
+  {
+    "State": "FL",
+    "Year": "12/1/2009",
+    "Balance": 921.64,
+    "Credit Limit": 6340.38,
+    "Number of Cards": 1.78496,
+    "Utilization": 16.2409,
+    "Rating": 733.055
+  },
+  {
+    "State": "FL",
+    "Year": "11/1/2010",
+    "Balance": 842.58,
+    "Credit Limit": 5506.65,
+    "Number of Cards": 1.67902,
+    "Utilization": 15.6368,
+    "Rating": 733.38
+  },
+  {
+    "State": "FL",
+    "Year": "12/1/2010",
+    "Balance": 875.57,
+    "Credit Limit": 5443.97,
+    "Number of Cards": 1.68691,
+    "Utilization": 16.236,
+    "Rating": 732.251
+  },
+  {
+    "State": "GA",
+    "Year": "11/1/2006",
+    "Balance": 954.89,
+    "Credit Limit": 7057.28,
+    "Number of Cards": 2.27974,
+    "Utilization": 15.9906,
+    "Rating": 727.864
+  },
+  {
+    "State": "GA",
+    "Year": "12/1/2006",
+    "Balance": 957.74,
+    "Credit Limit": 6996.14,
+    "Number of Cards": 2.26262,
+    "Utilization": 16.2912,
+    "Rating": 726.681
+  },
+  {
+    "State": "GA",
+    "Year": "11/1/2007",
+    "Balance": 958.03,
+    "Credit Limit": 7267.81,
+    "Number of Cards": 2.33851,
+    "Utilization": 15.4998,
+    "Rating": 728.138
+  },
+  {
+    "State": "GA",
+    "Year": "12/1/2007",
+    "Balance": 988.51,
+    "Credit Limit": 7310.89,
+    "Number of Cards": 2.34463,
+    "Utilization": 15.963,
+    "Rating": 727.368
+  },
+  {
+    "State": "GA",
+    "Year": "11/1/2008",
+    "Balance": 991.73,
+    "Credit Limit": 6871.85,
+    "Number of Cards": 2.04859,
+    "Utilization": 16.7853,
+    "Rating": 726.978
+  },
+  {
+    "State": "GA",
+    "Year": "12/1/2008",
+    "Balance": 996.28,
+    "Credit Limit": 6796.92,
+    "Number of Cards": 2.0473,
+    "Utilization": 17.1432,
+    "Rating": 725.897
+  },
+  {
+    "State": "GA",
+    "Year": "11/1/2009",
+    "Balance": 953.74,
+    "Credit Limit": 6291.78,
+    "Number of Cards": 1.87123,
+    "Utilization": 16.8107,
+    "Rating": 721.785
+  },
+  {
+    "State": "GA",
+    "Year": "12/1/2009",
+    "Balance": 977.7,
+    "Credit Limit": 6325.36,
+    "Number of Cards": 1.87893,
+    "Utilization": 17.4997,
+    "Rating": 720.88
+  },
+  {
+    "State": "GA",
+    "Year": "11/1/2010",
+    "Balance": 919.76,
+    "Credit Limit": 5663.8,
+    "Number of Cards": 1.71807,
+    "Utilization": 17.5024,
+    "Rating": 721.735
+  },
+  {
+    "State": "GA",
+    "Year": "12/1/2010",
+    "Balance": 950.23,
+    "Credit Limit": 5680.02,
+    "Number of Cards": 1.71858,
+    "Utilization": 18.1766,
+    "Rating": 720.891
+  },
+  {
+    "State": "HI",
+    "Year": "11/1/2006",
+    "Balance": 692.9,
+    "Credit Limit": 5760.64,
+    "Number of Cards": 1.88969,
+    "Utilization": 13.0587,
+    "Rating": 769.66
+  },
+  {
+    "State": "HI",
+    "Year": "12/1/2006",
+    "Balance": 701.6,
+    "Credit Limit": 5550.9,
+    "Number of Cards": 1.8305,
+    "Utilization": 13.2579,
+    "Rating": 768.072
+  },
+  {
+    "State": "HI",
+    "Year": "11/1/2007",
+    "Balance": 643.19,
+    "Credit Limit": 6149.04,
+    "Number of Cards": 1.91804,
+    "Utilization": 11.6743,
+    "Rating": 772.038
+  },
+  {
+    "State": "HI",
+    "Year": "12/1/2007",
+    "Balance": 679.69,
+    "Credit Limit": 6113.48,
+    "Number of Cards": 1.91208,
+    "Utilization": 12.2332,
+    "Rating": 769.009
+  },
+  {
+    "State": "HI",
+    "Year": "11/1/2008",
+    "Balance": 662.83,
+    "Credit Limit": 5839.13,
+    "Number of Cards": 1.72123,
+    "Utilization": 11.6332,
+    "Rating": 769.638
+  },
+  {
+    "State": "HI",
+    "Year": "12/1/2008",
+    "Balance": 692.25,
+    "Credit Limit": 5834.86,
+    "Number of Cards": 1.71727,
+    "Utilization": 12.2472,
+    "Rating": 767.666
+  },
+  {
+    "State": "HI",
+    "Year": "11/1/2009",
+    "Balance": 694.95,
+    "Credit Limit": 5530.39,
+    "Number of Cards": 1.51893,
+    "Utilization": 12.4431,
+    "Rating": 765.724
+  },
+  {
+    "State": "HI",
+    "Year": "12/1/2009",
+    "Balance": 712.09,
+    "Credit Limit": 5535.35,
+    "Number of Cards": 1.53826,
+    "Utilization": 13.3929,
+    "Rating": 764.984
+  },
+  {
+    "State": "HI",
+    "Year": "11/1/2010",
+    "Balance": 621.19,
+    "Credit Limit": 4269.29,
+    "Number of Cards": 1.48908,
+    "Utilization": 12.484,
+    "Rating": 768.188
+  },
+  {
+    "State": "HI",
+    "Year": "12/1/2010",
+    "Balance": 685.53,
+    "Credit Limit": 4233.45,
+    "Number of Cards": 1.60741,
+    "Utilization": 11.3606,
+    "Rating": 772.819
+  },
+  {
+    "State": "IA",
+    "Year": "11/1/2006",
+    "Balance": 670.7,
+    "Credit Limit": 6245.53,
+    "Number of Cards": 2.00024,
+    "Utilization": 11.6997,
+    "Rating": 772.796
+  },
+  {
+    "State": "IA",
+    "Year": "12/1/2006",
+    "Balance": 664.98,
+    "Credit Limit": 6071.69,
+    "Number of Cards": 2.00836,
+    "Utilization": 11.8062,
+    "Rating": 771.864
+  },
+  {
+    "State": "IA",
+    "Year": "11/1/2007",
+    "Balance": 652.35,
+    "Credit Limit": 6142.37,
+    "Number of Cards": 1.98592,
+    "Utilization": 11.3325,
+    "Rating": 775.312
+  },
+  {
+    "State": "IA",
+    "Year": "12/1/2007",
+    "Balance": 700.78,
+    "Credit Limit": 6148.48,
+    "Number of Cards": 1.98188,
+    "Utilization": 12.4967,
+    "Rating": 772.654
+  },
+  {
+    "State": "IA",
+    "Year": "11/1/2008",
+    "Balance": 702.43,
+    "Credit Limit": 5859.36,
+    "Number of Cards": 1.78624,
+    "Utilization": 12.3912,
+    "Rating": 774.769
+  },
+  {
+    "State": "IA",
+    "Year": "12/1/2008",
+    "Balance": 712.42,
+    "Credit Limit": 5830.94,
+    "Number of Cards": 1.80717,
+    "Utilization": 12.8246,
+    "Rating": 773.721
+  },
+  {
+    "State": "IA",
+    "Year": "11/1/2009",
+    "Balance": 666.06,
+    "Credit Limit": 5636.5,
+    "Number of Cards": 1.69572,
+    "Utilization": 12.4045,
+    "Rating": 772.655
+  },
+  {
+    "State": "IA",
+    "Year": "12/1/2009",
+    "Balance": 691.3,
+    "Credit Limit": 5620.75,
+    "Number of Cards": 1.69123,
+    "Utilization": 12.999,
+    "Rating": 771.348
+  },
+  {
+    "State": "IA",
+    "Year": "11/1/2010",
+    "Balance": 626.54,
+    "Credit Limit": 5387.25,
+    "Number of Cards": 1.62688,
+    "Utilization": 11.75,
+    "Rating": 773.258
+  },
+  {
+    "State": "IA",
+    "Year": "12/1/2010",
+    "Balance": 685.23,
+    "Credit Limit": 5502.48,
+    "Number of Cards": 1.65074,
+    "Utilization": 12.4857,
+    "Rating": 769.777
+  },
+  {
+    "State": "ID",
+    "Year": "11/1/2006",
+    "Balance": 657.24,
+    "Credit Limit": 5974.37,
+    "Number of Cards": 1.94825,
+    "Utilization": 11.5281,
+    "Rating": 763.477
+  },
+  {
+    "State": "ID",
+    "Year": "12/1/2006",
+    "Balance": 656.93,
+    "Credit Limit": 5780.77,
+    "Number of Cards": 1.94267,
+    "Utilization": 11.6933,
+    "Rating": 763.101
+  },
+  {
+    "State": "ID",
+    "Year": "11/1/2007",
+    "Balance": 723.52,
+    "Credit Limit": 6022.85,
+    "Number of Cards": 1.93879,
+    "Utilization": 11.4172,
+    "Rating": 766.957
+  },
+  {
+    "State": "ID",
+    "Year": "12/1/2007",
+    "Balance": 748.78,
+    "Credit Limit": 6025.4,
+    "Number of Cards": 1.94819,
+    "Utilization": 12.635,
+    "Rating": 763.383
+  },
+  {
+    "State": "ID",
+    "Year": "11/1/2008",
+    "Balance": 709.64,
+    "Credit Limit": 5593.4,
+    "Number of Cards": 1.76856,
+    "Utilization": 13.2261,
+    "Rating": 763.835
+  },
+  {
+    "State": "ID",
+    "Year": "12/1/2008",
+    "Balance": 710.77,
+    "Credit Limit": 5515.66,
+    "Number of Cards": 1.76845,
+    "Utilization": 13.3353,
+    "Rating": 763.245
+  },
+  {
+    "State": "ID",
+    "Year": "11/1/2009",
+    "Balance": 701.8,
+    "Credit Limit": 5219.26,
+    "Number of Cards": 1.56671,
+    "Utilization": 14.488,
+    "Rating": 760.588
+  },
+  {
+    "State": "ID",
+    "Year": "12/1/2009",
+    "Balance": 732.56,
+    "Credit Limit": 5242.52,
+    "Number of Cards": 1.57031,
+    "Utilization": 15.2608,
+    "Rating": 759.01
+  },
+  {
+    "State": "ID",
+    "Year": "11/1/2010",
+    "Balance": 646.81,
+    "Credit Limit": 4710.95,
+    "Number of Cards": 1.5249,
+    "Utilization": 13.8162,
+    "Rating": 759.06
+  },
+  {
+    "State": "ID",
+    "Year": "12/1/2010",
+    "Balance": 702.42,
+    "Credit Limit": 4558.81,
+    "Number of Cards": 1.50327,
+    "Utilization": 14.7993,
+    "Rating": 756.98
+  },
+  {
+    "State": "IL",
+    "Year": "11/1/2006",
+    "Balance": 828.15,
+    "Credit Limit": 6563.62,
+    "Number of Cards": 2.12329,
+    "Utilization": 13.9654,
+    "Rating": 765.008
+  },
+  {
+    "State": "IL",
+    "Year": "12/1/2006",
+    "Balance": 836.49,
+    "Credit Limit": 6678.05,
+    "Number of Cards": 2.33195,
+    "Utilization": 13.8778,
+    "Rating": 764.338
+  },
+  {
+    "State": "IL",
+    "Year": "11/1/2007",
+    "Balance": 794.27,
+    "Credit Limit": 7012.48,
+    "Number of Cards": 2.37643,
+    "Utilization": 12.5415,
+    "Rating": 767.352
+  },
+  {
+    "State": "IL",
+    "Year": "12/1/2007",
+    "Balance": 822.46,
+    "Credit Limit": 6976.17,
+    "Number of Cards": 2.38492,
+    "Utilization": 13.2512,
+    "Rating": 765.811
+  },
+  {
+    "State": "IL",
+    "Year": "11/1/2008",
+    "Balance": 788.74,
+    "Credit Limit": 6696.37,
+    "Number of Cards": 2.05717,
+    "Utilization": 13.3928,
+    "Rating": 765.707
+  },
+  {
+    "State": "IL",
+    "Year": "12/1/2008",
+    "Balance": 818.98,
+    "Credit Limit": 6669.78,
+    "Number of Cards": 2.06667,
+    "Utilization": 13.9662,
+    "Rating": 764.445
+  },
+  {
+    "State": "IL",
+    "Year": "11/1/2009",
+    "Balance": 799.01,
+    "Credit Limit": 6412.5,
+    "Number of Cards": 1.88557,
+    "Utilization": 14.0711,
+    "Rating": 759.712
+  },
+  {
+    "State": "IL",
+    "Year": "12/1/2009",
+    "Balance": 830.22,
+    "Credit Limit": 6385.86,
+    "Number of Cards": 1.88262,
+    "Utilization": 14.6129,
+    "Rating": 758.71
+  },
+  {
+    "State": "IL",
+    "Year": "11/1/2010",
+    "Balance": 743.29,
+    "Credit Limit": 5677.47,
+    "Number of Cards": 1.80309,
+    "Utilization": 13.5961,
+    "Rating": 760.056
+  },
+  {
+    "State": "IL",
+    "Year": "12/1/2010",
+    "Balance": 799.35,
+    "Credit Limit": 5719.4,
+    "Number of Cards": 1.81511,
+    "Utilization": 14.4869,
+    "Rating": 758.697
+  },
+  {
+    "State": "IN",
+    "Year": "11/1/2006",
+    "Balance": 796.26,
+    "Credit Limit": 6591.35,
+    "Number of Cards": 2.1337,
+    "Utilization": 13.7549,
+    "Rating": 747.258
+  },
+  {
+    "State": "IN",
+    "Year": "12/1/2006",
+    "Balance": 818.55,
+    "Credit Limit": 6631.87,
+    "Number of Cards": 2.33153,
+    "Utilization": 14.0947,
+    "Rating": 746.54
+  },
+  {
+    "State": "IN",
+    "Year": "11/1/2007",
+    "Balance": 832.58,
+    "Credit Limit": 6892.85,
+    "Number of Cards": 2.36407,
+    "Utilization": 13.333,
+    "Rating": 748.677
+  },
+  {
+    "State": "IN",
+    "Year": "12/1/2007",
+    "Balance": 871.46,
+    "Credit Limit": 6948.89,
+    "Number of Cards": 2.38931,
+    "Utilization": 14.1968,
+    "Rating": 747.481
+  },
+  {
+    "State": "IN",
+    "Year": "11/1/2008",
+    "Balance": 842.2,
+    "Credit Limit": 6439.52,
+    "Number of Cards": 2.06735,
+    "Utilization": 14.8154,
+    "Rating": 747.538
+  },
+  {
+    "State": "IN",
+    "Year": "12/1/2008",
+    "Balance": 863.32,
+    "Credit Limit": 6426.49,
+    "Number of Cards": 2.06808,
+    "Utilization": 15.5783,
+    "Rating": 747.05
+  },
+  {
+    "State": "IN",
+    "Year": "11/1/2009",
+    "Balance": 831.45,
+    "Credit Limit": 6086.38,
+    "Number of Cards": 1.81761,
+    "Utilization": 15.09,
+    "Rating": 742.772
+  },
+  {
+    "State": "IN",
+    "Year": "12/1/2009",
+    "Balance": 869.93,
+    "Credit Limit": 6083.8,
+    "Number of Cards": 1.81822,
+    "Utilization": 15.9548,
+    "Rating": 742.128
+  },
+  {
+    "State": "IN",
+    "Year": "11/1/2010",
+    "Balance": 792.01,
+    "Credit Limit": 5497.4,
+    "Number of Cards": 1.72277,
+    "Utilization": 14.7648,
+    "Rating": 744.376
+  },
+  {
+    "State": "IN",
+    "Year": "12/1/2010",
+    "Balance": 857.78,
+    "Credit Limit": 5574.05,
+    "Number of Cards": 1.72348,
+    "Utilization": 15.163,
+    "Rating": 743.07
+  },
+  {
+    "State": "KS",
+    "Year": "11/1/2006",
+    "Balance": 714.21,
+    "Credit Limit": 5989.43,
+    "Number of Cards": 1.94887,
+    "Utilization": 13.3561,
+    "Rating": 758.513
+  },
+  {
+    "State": "KS",
+    "Year": "12/1/2006",
+    "Balance": 706.09,
+    "Credit Limit": 5949.76,
+    "Number of Cards": 2.03639,
+    "Utilization": 13.2791,
+    "Rating": 757.585
+  },
+  {
+    "State": "KS",
+    "Year": "11/1/2007",
+    "Balance": 753.55,
+    "Credit Limit": 6195.9,
+    "Number of Cards": 2.03839,
+    "Utilization": 12.6533,
+    "Rating": 762.287
+  },
+  {
+    "State": "KS",
+    "Year": "12/1/2007",
+    "Balance": 772.11,
+    "Credit Limit": 6224.96,
+    "Number of Cards": 2.05588,
+    "Utilization": 13.0425,
+    "Rating": 760.844
+  },
+  {
+    "State": "KS",
+    "Year": "11/1/2008",
+    "Balance": 836.68,
+    "Credit Limit": 6250.76,
+    "Number of Cards": 1.72884,
+    "Utilization": 14.4218,
+    "Rating": 762.024
+  },
+  {
+    "State": "KS",
+    "Year": "12/1/2008",
+    "Balance": 857.6,
+    "Credit Limit": 6189.43,
+    "Number of Cards": 1.74043,
+    "Utilization": 15.0468,
+    "Rating": 760.992
+  },
+  {
+    "State": "KS",
+    "Year": "11/1/2009",
+    "Balance": 827.87,
+    "Credit Limit": 6195.28,
+    "Number of Cards": 1.64684,
+    "Utilization": 14.6334,
+    "Rating": 758.246
+  },
+  {
+    "State": "KS",
+    "Year": "12/1/2009",
+    "Balance": 872.17,
+    "Credit Limit": 6222.16,
+    "Number of Cards": 1.64643,
+    "Utilization": 15.0978,
+    "Rating": 757.78
+  },
+  {
+    "State": "KS",
+    "Year": "11/1/2010",
+    "Balance": 786.69,
+    "Credit Limit": 5721.78,
+    "Number of Cards": 1.565,
+    "Utilization": 13.5152,
+    "Rating": 758.586
+  },
+  {
+    "State": "KS",
+    "Year": "12/1/2010",
+    "Balance": 815.48,
+    "Credit Limit": 5580.82,
+    "Number of Cards": 1.58599,
+    "Utilization": 14.4956,
+    "Rating": 757.159
+  },
+  {
+    "State": "KY",
+    "Year": "11/1/2006",
+    "Balance": 837.52,
+    "Credit Limit": 6581.14,
+    "Number of Cards": 2.24713,
+    "Utilization": 14.6047,
+    "Rating": 742.705
+  },
+  {
+    "State": "KY",
+    "Year": "12/1/2006",
+    "Balance": 847.76,
+    "Credit Limit": 6480.97,
+    "Number of Cards": 2.25669,
+    "Utilization": 14.825,
+    "Rating": 741.199
+  },
+  {
+    "State": "KY",
+    "Year": "11/1/2007",
+    "Balance": 819.2,
+    "Credit Limit": 6656.49,
+    "Number of Cards": 2.28361,
+    "Utilization": 13.9509,
+    "Rating": 743.631
+  },
+  {
+    "State": "KY",
+    "Year": "12/1/2007",
+    "Balance": 846.3,
+    "Credit Limit": 6668.19,
+    "Number of Cards": 2.28652,
+    "Utilization": 14.7248,
+    "Rating": 743.516
+  },
+  {
+    "State": "KY",
+    "Year": "11/1/2008",
+    "Balance": 857.3,
+    "Credit Limit": 6396.01,
+    "Number of Cards": 1.95219,
+    "Utilization": 15.4425,
+    "Rating": 745.017
+  },
+  {
+    "State": "KY",
+    "Year": "12/1/2008",
+    "Balance": 888.67,
+    "Credit Limit": 6416.09,
+    "Number of Cards": 1.95878,
+    "Utilization": 16.1189,
+    "Rating": 743.909
+  },
+  {
+    "State": "KY",
+    "Year": "11/1/2009",
+    "Balance": 859.84,
+    "Credit Limit": 6065.97,
+    "Number of Cards": 1.81142,
+    "Utilization": 15.3155,
+    "Rating": 741.776
+  },
+  {
+    "State": "KY",
+    "Year": "12/1/2009",
+    "Balance": 881.05,
+    "Credit Limit": 6103.82,
+    "Number of Cards": 1.81985,
+    "Utilization": 16.1653,
+    "Rating": 740.988
+  },
+  {
+    "State": "KY",
+    "Year": "11/1/2010",
+    "Balance": 872.78,
+    "Credit Limit": 5526.39,
+    "Number of Cards": 1.72806,
+    "Utilization": 16.3046,
+    "Rating": 741.31
+  },
+  {
+    "State": "KY",
+    "Year": "12/1/2010",
+    "Balance": 889.16,
+    "Credit Limit": 5571.02,
+    "Number of Cards": 1.74402,
+    "Utilization": 16.0562,
+    "Rating": 737.051
+  },
+  {
+    "State": "LA",
+    "Year": "11/1/2006",
+    "Balance": 847.97,
+    "Credit Limit": 6001.03,
+    "Number of Cards": 2.10758,
+    "Utilization": 15.3679,
+    "Rating": 720.875
+  },
+  {
+    "State": "LA",
+    "Year": "12/1/2006",
+    "Balance": 844.9,
+    "Credit Limit": 5857.24,
+    "Number of Cards": 2.13498,
+    "Utilization": 15.7362,
+    "Rating": 719.674
+  },
+  {
+    "State": "LA",
+    "Year": "11/1/2007",
+    "Balance": 854.02,
+    "Credit Limit": 6040.97,
+    "Number of Cards": 2.12048,
+    "Utilization": 15.3442,
+    "Rating": 723.894
+  },
+  {
+    "State": "LA",
+    "Year": "12/1/2007",
+    "Balance": 858.35,
+    "Credit Limit": 6035.69,
+    "Number of Cards": 2.13572,
+    "Utilization": 15.5037,
+    "Rating": 723.295
+  },
+  {
+    "State": "LA",
+    "Year": "11/1/2008",
+    "Balance": 947.35,
+    "Credit Limit": 6019.71,
+    "Number of Cards": 1.68824,
+    "Utilization": 18.1961,
+    "Rating": 722.3
+  },
+  {
+    "State": "LA",
+    "Year": "12/1/2008",
+    "Balance": 962.89,
+    "Credit Limit": 5933.52,
+    "Number of Cards": 1.68808,
+    "Utilization": 18.7096,
+    "Rating": 722.023
+  },
+  {
+    "State": "LA",
+    "Year": "11/1/2009",
+    "Balance": 945.04,
+    "Credit Limit": 5896.18,
+    "Number of Cards": 1.57852,
+    "Utilization": 18.459,
+    "Rating": 719.096
+  },
+  {
+    "State": "LA",
+    "Year": "12/1/2009",
+    "Balance": 961.48,
+    "Credit Limit": 5938.49,
+    "Number of Cards": 1.58186,
+    "Utilization": 18.7458,
+    "Rating": 718.73
+  },
+  {
+    "State": "LA",
+    "Year": "11/1/2010",
+    "Balance": 879.84,
+    "Credit Limit": 5547.61,
+    "Number of Cards": 1.52929,
+    "Utilization": 17.0408,
+    "Rating": 720.92
+  },
+  {
+    "State": "LA",
+    "Year": "12/1/2010",
+    "Balance": 964.39,
+    "Credit Limit": 5682.92,
+    "Number of Cards": 1.56975,
+    "Utilization": 17.1905,
+    "Rating": 719.117
+  },
+  {
+    "State": "MA",
+    "Year": "11/1/2006",
+    "Balance": 659.36,
+    "Credit Limit": 6718.01,
+    "Number of Cards": 2.16788,
+    "Utilization": 11.1023,
+    "Rating": 781.542
+  },
+  {
+    "State": "MA",
+    "Year": "12/1/2006",
+    "Balance": 680.8,
+    "Credit Limit": 6670.28,
+    "Number of Cards": 2.4411,
+    "Utilization": 11.2853,
+    "Rating": 780.528
+  },
+  {
+    "State": "MA",
+    "Year": "11/1/2007",
+    "Balance": 647.38,
+    "Credit Limit": 7123.85,
+    "Number of Cards": 2.49754,
+    "Utilization": 10.2243,
+    "Rating": 782.591
+  },
+  {
+    "State": "MA",
+    "Year": "12/1/2007",
+    "Balance": 676.89,
+    "Credit Limit": 7159.28,
+    "Number of Cards": 2.49035,
+    "Utilization": 10.7676,
+    "Rating": 780.886
+  },
+  {
+    "State": "MA",
+    "Year": "11/1/2008",
+    "Balance": 647.03,
+    "Credit Limit": 6704.59,
+    "Number of Cards": 2.17965,
+    "Utilization": 10.9439,
+    "Rating": 780.169
+  },
+  {
+    "State": "MA",
+    "Year": "12/1/2008",
+    "Balance": 668.27,
+    "Credit Limit": 6722.07,
+    "Number of Cards": 2.16707,
+    "Utilization": 11.5365,
+    "Rating": 778.622
+  },
+  {
+    "State": "MA",
+    "Year": "11/1/2009",
+    "Balance": 658.04,
+    "Credit Limit": 6430.31,
+    "Number of Cards": 1.92017,
+    "Utilization": 12.0128,
+    "Rating": 775.735
+  },
+  {
+    "State": "MA",
+    "Year": "12/1/2009",
+    "Balance": 677.63,
+    "Credit Limit": 6464.4,
+    "Number of Cards": 1.92558,
+    "Utilization": 12.5935,
+    "Rating": 775.013
+  },
+  {
+    "State": "MA",
+    "Year": "11/1/2010",
+    "Balance": 635.98,
+    "Credit Limit": 5448.44,
+    "Number of Cards": 1.83351,
+    "Utilization": 11.7053,
+    "Rating": 775.829
+  },
+  {
+    "State": "MA",
+    "Year": "12/1/2010",
+    "Balance": 648.13,
+    "Credit Limit": 5401.94,
+    "Number of Cards": 1.84717,
+    "Utilization": 11.8842,
+    "Rating": 774.452
+  },
+  {
+    "State": "MD",
+    "Year": "11/1/2006",
+    "Balance": 756.47,
+    "Credit Limit": 6427.51,
+    "Number of Cards": 2.01947,
+    "Utilization": 13.3535,
+    "Rating": 765.689
+  },
+  {
+    "State": "MD",
+    "Year": "12/1/2006",
+    "Balance": 766.39,
+    "Credit Limit": 6452.88,
+    "Number of Cards": 2.25065,
+    "Utilization": 13.3647,
+    "Rating": 764.601
+  },
+  {
+    "State": "MD",
+    "Year": "11/1/2007",
+    "Balance": 779.57,
+    "Credit Limit": 6798.24,
+    "Number of Cards": 2.31007,
+    "Utilization": 12.8042,
+    "Rating": 765.417
+  },
+  {
+    "State": "MD",
+    "Year": "12/1/2007",
+    "Balance": 829.89,
+    "Credit Limit": 6893.71,
+    "Number of Cards": 2.36168,
+    "Utilization": 13.6282,
+    "Rating": 764.285
+  },
+  {
+    "State": "MD",
+    "Year": "11/1/2008",
+    "Balance": 841.61,
+    "Credit Limit": 6623.14,
+    "Number of Cards": 2.07745,
+    "Utilization": 14.2772,
+    "Rating": 762.294
+  },
+  {
+    "State": "MD",
+    "Year": "12/1/2008",
+    "Balance": 873.45,
+    "Credit Limit": 6594.25,
+    "Number of Cards": 2.07974,
+    "Utilization": 14.8948,
+    "Rating": 760.851
+  },
+  {
+    "State": "MD",
+    "Year": "11/1/2009",
+    "Balance": 854.68,
+    "Credit Limit": 6347.22,
+    "Number of Cards": 1.86818,
+    "Utilization": 14.4825,
+    "Rating": 756.469
+  },
+  {
+    "State": "MD",
+    "Year": "12/1/2009",
+    "Balance": 874.94,
+    "Credit Limit": 6355.22,
+    "Number of Cards": 1.87117,
+    "Utilization": 15.0457,
+    "Rating": 755.262
+  },
+  {
+    "State": "MD",
+    "Year": "11/1/2010",
+    "Balance": 794.87,
+    "Credit Limit": 5460.01,
+    "Number of Cards": 1.77226,
+    "Utilization": 14.6801,
+    "Rating": 755.115
+  },
+  {
+    "State": "MD",
+    "Year": "12/1/2010",
+    "Balance": 862.38,
+    "Credit Limit": 5676.62,
+    "Number of Cards": 1.78368,
+    "Utilization": 15.4718,
+    "Rating": 755.467
+  },
+  {
+    "State": "ME",
+    "Year": "11/1/2006",
+    "Balance": 624.98,
+    "Credit Limit": 5533.51,
+    "Number of Cards": 1.73668,
+    "Utilization": 11.976,
+    "Rating": 768.861
+  },
+  {
+    "State": "ME",
+    "Year": "12/1/2006",
+    "Balance": 626.28,
+    "Credit Limit": 5473.05,
+    "Number of Cards": 1.86131,
+    "Utilization": 12.3333,
+    "Rating": 768.463
+  },
+  {
+    "State": "ME",
+    "Year": "11/1/2007",
+    "Balance": 615.32,
+    "Credit Limit": 5961.86,
+    "Number of Cards": 1.92166,
+    "Utilization": 11.7983,
+    "Rating": 767.515
+  },
+  {
+    "State": "ME",
+    "Year": "12/1/2007",
+    "Balance": 655.86,
+    "Credit Limit": 6019.53,
+    "Number of Cards": 1.94287,
+    "Utilization": 12.4714,
+    "Rating": 766.996
+  },
+  {
+    "State": "ME",
+    "Year": "11/1/2008",
+    "Balance": 636.54,
+    "Credit Limit": 5511.4,
+    "Number of Cards": 1.75816,
+    "Utilization": 12.6031,
+    "Rating": 769.414
+  },
+  {
+    "State": "ME",
+    "Year": "12/1/2008",
+    "Balance": 667.29,
+    "Credit Limit": 5542.32,
+    "Number of Cards": 1.75612,
+    "Utilization": 13.1624,
+    "Rating": 768.328
+  },
+  {
+    "State": "ME",
+    "Year": "11/1/2009",
+    "Balance": 648.72,
+    "Credit Limit": 5165.62,
+    "Number of Cards": 1.5346,
+    "Utilization": 12.3963,
+    "Rating": 767.669
+  },
+  {
+    "State": "ME",
+    "Year": "12/1/2009",
+    "Balance": 655.83,
+    "Credit Limit": 5162.12,
+    "Number of Cards": 1.54657,
+    "Utilization": 12.7263,
+    "Rating": 766.749
+  },
+  {
+    "State": "ME",
+    "Year": "11/1/2010",
+    "Balance": 582.89,
+    "Credit Limit": 4536.25,
+    "Number of Cards": 1.48762,
+    "Utilization": 12.0643,
+    "Rating": 767.59
+  },
+  {
+    "State": "ME",
+    "Year": "12/1/2010",
+    "Balance": 639.84,
+    "Credit Limit": 5199.45,
+    "Number of Cards": 1.55755,
+    "Utilization": 11.8534,
+    "Rating": 766.171
+  },
+  {
+    "State": "MI",
+    "Year": "11/1/2006",
+    "Balance": 787.39,
+    "Credit Limit": 6165.05,
+    "Number of Cards": 2,
+    "Utilization": 13.5187,
+    "Rating": 756.628
+  },
+  {
+    "State": "MI",
+    "Year": "12/1/2006",
+    "Balance": 804.17,
+    "Credit Limit": 6211.12,
+    "Number of Cards": 2.21513,
+    "Utilization": 13.7561,
+    "Rating": 755.53
+  },
+  {
+    "State": "MI",
+    "Year": "11/1/2007",
+    "Balance": 776.67,
+    "Credit Limit": 6599.41,
+    "Number of Cards": 2.2693,
+    "Utilization": 12.869,
+    "Rating": 757.004
+  },
+  {
+    "State": "MI",
+    "Year": "12/1/2007",
+    "Balance": 832.25,
+    "Credit Limit": 6635.74,
+    "Number of Cards": 2.27806,
+    "Utilization": 13.5677,
+    "Rating": 755.921
+  },
+  {
+    "State": "MI",
+    "Year": "11/1/2008",
+    "Balance": 824.76,
+    "Credit Limit": 6348.34,
+    "Number of Cards": 1.88539,
+    "Utilization": 14.393,
+    "Rating": 753.978
+  },
+  {
+    "State": "MI",
+    "Year": "12/1/2008",
+    "Balance": 853.39,
+    "Credit Limit": 6326.71,
+    "Number of Cards": 1.89524,
+    "Utilization": 14.7987,
+    "Rating": 753.275
+  },
+  {
+    "State": "MI",
+    "Year": "11/1/2009",
+    "Balance": 795.32,
+    "Credit Limit": 5975.49,
+    "Number of Cards": 1.69946,
+    "Utilization": 14.1724,
+    "Rating": 748.985
+  },
+  {
+    "State": "MI",
+    "Year": "12/1/2009",
+    "Balance": 812.43,
+    "Credit Limit": 5992.05,
+    "Number of Cards": 1.70519,
+    "Utilization": 14.7502,
+    "Rating": 747.862
+  },
+  {
+    "State": "MI",
+    "Year": "11/1/2010",
+    "Balance": 733.01,
+    "Credit Limit": 5287.8,
+    "Number of Cards": 1.61686,
+    "Utilization": 13.767,
+    "Rating": 748.275
+  },
+  {
+    "State": "MI",
+    "Year": "12/1/2010",
+    "Balance": 789.84,
+    "Credit Limit": 5272.52,
+    "Number of Cards": 1.63046,
+    "Utilization": 14.8405,
+    "Rating": 746.322
+  },
+  {
+    "State": "MN",
+    "Year": "11/1/2006",
+    "Balance": 627.78,
+    "Credit Limit": 6031.1,
+    "Number of Cards": 1.88244,
+    "Utilization": 11.0111,
+    "Rating": 788.253
+  },
+  {
+    "State": "MN",
+    "Year": "12/1/2006",
+    "Balance": 664.17,
+    "Credit Limit": 6147.43,
+    "Number of Cards": 2.128,
+    "Utilization": 11.0776,
+    "Rating": 788.512
+  },
+  {
+    "State": "MN",
+    "Year": "11/1/2007",
+    "Balance": 646.39,
+    "Credit Limit": 6518.32,
+    "Number of Cards": 2.11926,
+    "Utilization": 10.3942,
+    "Rating": 789.604
+  },
+  {
+    "State": "MN",
+    "Year": "12/1/2007",
+    "Balance": 671.64,
+    "Credit Limit": 6515.85,
+    "Number of Cards": 2.1297,
+    "Utilization": 11.1572,
+    "Rating": 788.724
+  },
+  {
+    "State": "MN",
+    "Year": "11/1/2008",
+    "Balance": 647.12,
+    "Credit Limit": 6066.89,
+    "Number of Cards": 1.82845,
+    "Utilization": 11.3807,
+    "Rating": 788.165
+  },
+  {
+    "State": "MN",
+    "Year": "12/1/2008",
+    "Balance": 650.61,
+    "Credit Limit": 6073,
+    "Number of Cards": 1.84364,
+    "Utilization": 11.7628,
+    "Rating": 787.045
+  },
+  {
+    "State": "MN",
+    "Year": "11/1/2009",
+    "Balance": 614.97,
+    "Credit Limit": 5861.98,
+    "Number of Cards": 1.67188,
+    "Utilization": 11.1598,
+    "Rating": 784.76
+  },
+  {
+    "State": "MN",
+    "Year": "12/1/2009",
+    "Balance": 637.12,
+    "Credit Limit": 5855.9,
+    "Number of Cards": 1.67052,
+    "Utilization": 11.6438,
+    "Rating": 783.81
+  },
+  {
+    "State": "MN",
+    "Year": "11/1/2010",
+    "Balance": 601.21,
+    "Credit Limit": 5111.28,
+    "Number of Cards": 1.59924,
+    "Utilization": 11.6331,
+    "Rating": 784.337
+  },
+  {
+    "State": "MN",
+    "Year": "12/1/2010",
+    "Balance": 634.78,
+    "Credit Limit": 5082.43,
+    "Number of Cards": 1.60783,
+    "Utilization": 12.3546,
+    "Rating": 784.101
+  },
+  {
+    "State": "MO",
+    "Year": "11/1/2006",
+    "Balance": 778.87,
+    "Credit Limit": 6210.6,
+    "Number of Cards": 1.94606,
+    "Utilization": 13.6555,
+    "Rating": 751.641
+  },
+  {
+    "State": "MO",
+    "Year": "12/1/2006",
+    "Balance": 792.39,
+    "Credit Limit": 6271.5,
+    "Number of Cards": 2.16353,
+    "Utilization": 13.7092,
+    "Rating": 750.816
+  },
+  {
+    "State": "MO",
+    "Year": "11/1/2007",
+    "Balance": 789.29,
+    "Credit Limit": 6613.38,
+    "Number of Cards": 2.19065,
+    "Utilization": 12.854,
+    "Rating": 753.068
+  },
+  {
+    "State": "MO",
+    "Year": "12/1/2007",
+    "Balance": 789.06,
+    "Credit Limit": 6519.14,
+    "Number of Cards": 2.1991,
+    "Utilization": 13.2374,
+    "Rating": 753.045
+  },
+  {
+    "State": "MO",
+    "Year": "11/1/2008",
+    "Balance": 807.32,
+    "Credit Limit": 6205.36,
+    "Number of Cards": 1.83651,
+    "Utilization": 14.2511,
+    "Rating": 752.62
+  },
+  {
+    "State": "MO",
+    "Year": "12/1/2008",
+    "Balance": 830.8,
+    "Credit Limit": 6103.44,
+    "Number of Cards": 1.83646,
+    "Utilization": 14.9042,
+    "Rating": 751.602
+  },
+  {
+    "State": "MO",
+    "Year": "11/1/2009",
+    "Balance": 809.87,
+    "Credit Limit": 5934.58,
+    "Number of Cards": 1.71375,
+    "Utilization": 14.653,
+    "Rating": 749.003
+  },
+  {
+    "State": "MO",
+    "Year": "12/1/2009",
+    "Balance": 840.21,
+    "Credit Limit": 5936.56,
+    "Number of Cards": 1.71883,
+    "Utilization": 15.2833,
+    "Rating": 748.107
+  },
+  {
+    "State": "MO",
+    "Year": "11/1/2010",
+    "Balance": 796.43,
+    "Credit Limit": 5363.66,
+    "Number of Cards": 1.66968,
+    "Utilization": 14.092,
+    "Rating": 749.354
+  },
+  {
+    "State": "MO",
+    "Year": "12/1/2010",
+    "Balance": 822.87,
+    "Credit Limit": 5513.17,
+    "Number of Cards": 1.70546,
+    "Utilization": 14.6259,
+    "Rating": 747.27
+  },
+  {
+    "State": "MS",
+    "Year": "11/1/2006",
+    "Balance": 822.16,
+    "Credit Limit": 5931.21,
+    "Number of Cards": 1.90364,
+    "Utilization": 16.0816,
+    "Rating": 713.276
+  },
+  {
+    "State": "MS",
+    "Year": "12/1/2006",
+    "Balance": 813.66,
+    "Credit Limit": 5751.6,
+    "Number of Cards": 1.87606,
+    "Utilization": 16.3763,
+    "Rating": 712.083
+  },
+  {
+    "State": "MS",
+    "Year": "11/1/2007",
+    "Balance": 855.79,
+    "Credit Limit": 6057.45,
+    "Number of Cards": 1.92604,
+    "Utilization": 15.501,
+    "Rating": 713.175
+  },
+  {
+    "State": "MS",
+    "Year": "12/1/2007",
+    "Balance": 890.11,
+    "Credit Limit": 6149.15,
+    "Number of Cards": 1.96221,
+    "Utilization": 16.0671,
+    "Rating": 712.448
+  },
+  {
+    "State": "MS",
+    "Year": "11/1/2008",
+    "Balance": 969.29,
+    "Credit Limit": 6066.92,
+    "Number of Cards": 1.70757,
+    "Utilization": 18.4532,
+    "Rating": 711.481
+  },
+  {
+    "State": "MS",
+    "Year": "12/1/2008",
+    "Balance": 989.3,
+    "Credit Limit": 5957.78,
+    "Number of Cards": 1.71039,
+    "Utilization": 18.9586,
+    "Rating": 710.866
+  },
+  {
+    "State": "MS",
+    "Year": "11/1/2009",
+    "Balance": 976.45,
+    "Credit Limit": 5577.58,
+    "Number of Cards": 1.55985,
+    "Utilization": 19.4017,
+    "Rating": 706.117
+  },
+  {
+    "State": "MS",
+    "Year": "12/1/2009",
+    "Balance": 986.19,
+    "Credit Limit": 5609.86,
+    "Number of Cards": 1.56288,
+    "Utilization": 19.7708,
+    "Rating": 705.424
+  },
+  {
+    "State": "MS",
+    "Year": "11/1/2010",
+    "Balance": 888.3,
+    "Credit Limit": 5331.13,
+    "Number of Cards": 1.51843,
+    "Utilization": 17.779,
+    "Rating": 708.473
+  },
+  {
+    "State": "MS",
+    "Year": "12/1/2010",
+    "Balance": 972.9,
+    "Credit Limit": 5140.37,
+    "Number of Cards": 1.48117,
+    "Utilization": 18.8301,
+    "Rating": 706.848
+  },
+  {
+    "State": "MT",
+    "Year": "11/1/2006",
+    "Balance": 641.09,
+    "Credit Limit": 5825.62,
+    "Number of Cards": 1.82733,
+    "Utilization": 11.026,
+    "Rating": 771.222
+  },
+  {
+    "State": "MT",
+    "Year": "12/1/2006",
+    "Balance": 668.3,
+    "Credit Limit": 5633.18,
+    "Number of Cards": 1.81081,
+    "Utilization": 11.5335,
+    "Rating": 770.256
+  },
+  {
+    "State": "MT",
+    "Year": "11/1/2007",
+    "Balance": 650.82,
+    "Credit Limit": 5781.66,
+    "Number of Cards": 1.75763,
+    "Utilization": 10.8068,
+    "Rating": 771.822
+  },
+  {
+    "State": "MT",
+    "Year": "12/1/2007",
+    "Balance": 679.32,
+    "Credit Limit": 5840.92,
+    "Number of Cards": 1.77047,
+    "Utilization": 11.3682,
+    "Rating": 769.393
+  },
+  {
+    "State": "MT",
+    "Year": "11/1/2008",
+    "Balance": 670.55,
+    "Credit Limit": 5435.68,
+    "Number of Cards": 1.49515,
+    "Utilization": 11.5531,
+    "Rating": 770.523
+  },
+  {
+    "State": "MT",
+    "Year": "12/1/2008",
+    "Balance": 695.29,
+    "Credit Limit": 5397.97,
+    "Number of Cards": 1.51194,
+    "Utilization": 12.262,
+    "Rating": 770.006
+  },
+  {
+    "State": "MT",
+    "Year": "11/1/2009",
+    "Balance": 623.96,
+    "Credit Limit": 5071.66,
+    "Number of Cards": 1.34103,
+    "Utilization": 11.3715,
+    "Rating": 769.141
+  },
+  {
+    "State": "MT",
+    "Year": "12/1/2009",
+    "Balance": 623.12,
+    "Credit Limit": 5052.26,
+    "Number of Cards": 1.33557,
+    "Utilization": 11.419,
+    "Rating": 767.803
+  },
+  {
+    "State": "MT",
+    "Year": "11/1/2010",
+    "Balance": 583.32,
+    "Credit Limit": 4768.05,
+    "Number of Cards": 1.29588,
+    "Utilization": 11.7342,
+    "Rating": 770.303
+  },
+  {
+    "State": "MT",
+    "Year": "12/1/2010",
+    "Balance": 614.17,
+    "Credit Limit": 4666.87,
+    "Number of Cards": 1.30481,
+    "Utilization": 12.6596,
+    "Rating": 763.097
+  },
+  {
+    "State": "NC",
+    "Year": "11/1/2006",
+    "Balance": 853.66,
+    "Credit Limit": 6515.54,
+    "Number of Cards": 1.9716,
+    "Utilization": 14.7213,
+    "Rating": 743.183
+  },
+  {
+    "State": "NC",
+    "Year": "12/1/2006",
+    "Balance": 869.37,
+    "Credit Limit": 6476.22,
+    "Number of Cards": 2.0352,
+    "Utilization": 14.9106,
+    "Rating": 742.353
+  },
+  {
+    "State": "NC",
+    "Year": "11/1/2007",
+    "Balance": 878.61,
+    "Credit Limit": 6881.75,
+    "Number of Cards": 2.10095,
+    "Utilization": 14.6762,
+    "Rating": 745.978
+  },
+  {
+    "State": "NC",
+    "Year": "12/1/2007",
+    "Balance": 919.69,
+    "Credit Limit": 6775.47,
+    "Number of Cards": 2.09496,
+    "Utilization": 15.476,
+    "Rating": 744.915
+  },
+  {
+    "State": "NC",
+    "Year": "11/1/2008",
+    "Balance": 925.15,
+    "Credit Limit": 6366.23,
+    "Number of Cards": 1.76627,
+    "Utilization": 16.2344,
+    "Rating": 745.453
+  },
+  {
+    "State": "NC",
+    "Year": "12/1/2008",
+    "Balance": 945.35,
+    "Credit Limit": 6252.3,
+    "Number of Cards": 1.76567,
+    "Utilization": 17.1171,
+    "Rating": 744.578
+  },
+  {
+    "State": "NC",
+    "Year": "11/1/2009",
+    "Balance": 914.28,
+    "Credit Limit": 6063.02,
+    "Number of Cards": 1.62291,
+    "Utilization": 16.5328,
+    "Rating": 741.589
+  },
+  {
+    "State": "NC",
+    "Year": "12/1/2009",
+    "Balance": 947.55,
+    "Credit Limit": 6076.68,
+    "Number of Cards": 1.63014,
+    "Utilization": 17.1318,
+    "Rating": 741.048
+  },
+  {
+    "State": "NC",
+    "Year": "11/1/2010",
+    "Balance": 890.84,
+    "Credit Limit": 5771.45,
+    "Number of Cards": 1.56798,
+    "Utilization": 16.0983,
+    "Rating": 741.587
+  },
+  {
+    "State": "NC",
+    "Year": "12/1/2010",
+    "Balance": 940.05,
+    "Credit Limit": 5861.2,
+    "Number of Cards": 1.59404,
+    "Utilization": 17.2347,
+    "Rating": 740.898
+  },
+  {
+    "State": "ND",
+    "Year": "11/1/2006",
+    "Balance": 789.09,
+    "Credit Limit": 5688.39,
+    "Number of Cards": 1.78866,
+    "Utilization": 12.2979,
+    "Rating": 774.536
+  },
+  {
+    "State": "ND",
+    "Year": "12/1/2006",
+    "Balance": 760.74,
+    "Credit Limit": 5662.61,
+    "Number of Cards": 1.90113,
+    "Utilization": 12.1421,
+    "Rating": 773.852
+  },
+  {
+    "State": "ND",
+    "Year": "11/1/2007",
+    "Balance": 741.98,
+    "Credit Limit": 6178.45,
+    "Number of Cards": 1.91315,
+    "Utilization": 11.3248,
+    "Rating": 775.372
+  },
+  {
+    "State": "ND",
+    "Year": "12/1/2007",
+    "Balance": 780.48,
+    "Credit Limit": 6153.89,
+    "Number of Cards": 1.93252,
+    "Utilization": 11.7068,
+    "Rating": 775.466
+  },
+  {
+    "State": "ND",
+    "Year": "11/1/2008",
+    "Balance": 678.9,
+    "Credit Limit": 5616.65,
+    "Number of Cards": 1.751,
+    "Utilization": 11.6006,
+    "Rating": 777.537
+  },
+  {
+    "State": "ND",
+    "Year": "12/1/2008",
+    "Balance": 689.45,
+    "Credit Limit": 5588.8,
+    "Number of Cards": 1.76471,
+    "Utilization": 12.0829,
+    "Rating": 776.75
+  },
+  {
+    "State": "ND",
+    "Year": "11/1/2009",
+    "Balance": 710.77,
+    "Credit Limit": 5382.89,
+    "Number of Cards": 1.58736,
+    "Utilization": 12.2638,
+    "Rating": 775.571
+  },
+  {
+    "State": "ND",
+    "Year": "12/1/2009",
+    "Balance": 709.51,
+    "Credit Limit": 5393.66,
+    "Number of Cards": 1.5939,
+    "Utilization": 12.3612,
+    "Rating": 772.737
+  },
+  {
+    "State": "ND",
+    "Year": "11/1/2010",
+    "Balance": 643.38,
+    "Credit Limit": 5119.3,
+    "Number of Cards": 1.54195,
+    "Utilization": 11.421,
+    "Rating": 778.017
+  },
+  {
+    "State": "ND",
+    "Year": "12/1/2010",
+    "Balance": 674.2,
+    "Credit Limit": 4950.44,
+    "Number of Cards": 1.65973,
+    "Utilization": 11.7014,
+    "Rating": 775.988
+  },
+  {
+    "State": "NE",
+    "Year": "11/1/2006",
+    "Balance": 818.2,
+    "Credit Limit": 6715.07,
+    "Number of Cards": 2.08437,
+    "Utilization": 12.7206,
+    "Rating": 767.336
+  },
+  {
+    "State": "NE",
+    "Year": "12/1/2006",
+    "Balance": 806.54,
+    "Credit Limit": 6675.56,
+    "Number of Cards": 2.10158,
+    "Utilization": 12.8182,
+    "Rating": 766.328
+  },
+  {
+    "State": "NE",
+    "Year": "11/1/2007",
+    "Balance": 827.77,
+    "Credit Limit": 6816.55,
+    "Number of Cards": 2.09578,
+    "Utilization": 13.5247,
+    "Rating": 769.915
+  },
+  {
+    "State": "NE",
+    "Year": "12/1/2007",
+    "Balance": 894.53,
+    "Credit Limit": 6802.66,
+    "Number of Cards": 2.11389,
+    "Utilization": 14.0177,
+    "Rating": 768.426
+  },
+  {
+    "State": "NE",
+    "Year": "11/1/2008",
+    "Balance": 854.6,
+    "Credit Limit": 6758.61,
+    "Number of Cards": 1.86314,
+    "Utilization": 14.0868,
+    "Rating": 769.685
+  },
+  {
+    "State": "NE",
+    "Year": "12/1/2008",
+    "Balance": 891.2,
+    "Credit Limit": 6695.61,
+    "Number of Cards": 1.87006,
+    "Utilization": 14.7589,
+    "Rating": 769.311
+  },
+  {
+    "State": "NE",
+    "Year": "11/1/2009",
+    "Balance": 885.2,
+    "Credit Limit": 6724.26,
+    "Number of Cards": 1.81222,
+    "Utilization": 14.5343,
+    "Rating": 768.427
+  },
+  {
+    "State": "NE",
+    "Year": "12/1/2009",
+    "Balance": 893,
+    "Credit Limit": 6732.71,
+    "Number of Cards": 1.81265,
+    "Utilization": 15.1377,
+    "Rating": 767.376
+  },
+  {
+    "State": "NE",
+    "Year": "11/1/2010",
+    "Balance": 892.49,
+    "Credit Limit": 6507.37,
+    "Number of Cards": 1.78763,
+    "Utilization": 14.0368,
+    "Rating": 770.468
+  },
+  {
+    "State": "NE",
+    "Year": "12/1/2010",
+    "Balance": 893.02,
+    "Credit Limit": 6311.42,
+    "Number of Cards": 1.75871,
+    "Utilization": 14.9231,
+    "Rating": 771.361
+  },
+  {
+    "State": "NH",
+    "Year": "11/1/2006",
+    "Balance": 704.38,
+    "Credit Limit": 6716.98,
+    "Number of Cards": 2.10601,
+    "Utilization": 11.6583,
+    "Rating": 777.832
+  },
+  {
+    "State": "NH",
+    "Year": "12/1/2006",
+    "Balance": 740.3,
+    "Credit Limit": 6715.44,
+    "Number of Cards": 2.26937,
+    "Utilization": 11.7009,
+    "Rating": 776.394
+  },
+  {
+    "State": "NH",
+    "Year": "11/1/2007",
+    "Balance": 712.11,
+    "Credit Limit": 6886.9,
+    "Number of Cards": 2.27439,
+    "Utilization": 11.0145,
+    "Rating": 780.805
+  },
+  {
+    "State": "NH",
+    "Year": "12/1/2007",
+    "Balance": 758.93,
+    "Credit Limit": 6959.88,
+    "Number of Cards": 2.26502,
+    "Utilization": 11.857,
+    "Rating": 779.504
+  },
+  {
+    "State": "NH",
+    "Year": "11/1/2008",
+    "Balance": 743.29,
+    "Credit Limit": 6599.49,
+    "Number of Cards": 2.07481,
+    "Utilization": 11.817,
+    "Rating": 781.886
+  },
+  {
+    "State": "NH",
+    "Year": "12/1/2008",
+    "Balance": 755.04,
+    "Credit Limit": 6601.78,
+    "Number of Cards": 2.07121,
+    "Utilization": 12.348,
+    "Rating": 780.249
+  },
+  {
+    "State": "NH",
+    "Year": "11/1/2009",
+    "Balance": 750.67,
+    "Credit Limit": 6299.66,
+    "Number of Cards": 1.81466,
+    "Utilization": 12.2541,
+    "Rating": 776.262
+  },
+  {
+    "State": "NH",
+    "Year": "12/1/2009",
+    "Balance": 779.34,
+    "Credit Limit": 6297.71,
+    "Number of Cards": 1.82132,
+    "Utilization": 12.7231,
+    "Rating": 775.772
+  },
+  {
+    "State": "NH",
+    "Year": "11/1/2010",
+    "Balance": 675.72,
+    "Credit Limit": 5544.88,
+    "Number of Cards": 1.69929,
+    "Utilization": 11.9013,
+    "Rating": 775.864
+  },
+  {
+    "State": "NH",
+    "Year": "12/1/2010",
+    "Balance": 664.19,
+    "Credit Limit": 5114.36,
+    "Number of Cards": 1.666,
+    "Utilization": 12.4935,
+    "Rating": 776.116
+  },
+  {
+    "State": "NJ",
+    "Year": "11/1/2006",
+    "Balance": 766.84,
+    "Credit Limit": 7619.26,
+    "Number of Cards": 2.89866,
+    "Utilization": 11.9104,
+    "Rating": 778.902
+  },
+  {
+    "State": "NJ",
+    "Year": "12/1/2006",
+    "Balance": 785.16,
+    "Credit Limit": 7509.68,
+    "Number of Cards": 2.91458,
+    "Utilization": 12.2718,
+    "Rating": 776.809
+  },
+  {
+    "State": "NJ",
+    "Year": "11/1/2007",
+    "Balance": 766.09,
+    "Credit Limit": 7789.46,
+    "Number of Cards": 2.98986,
+    "Utilization": 11.3144,
+    "Rating": 779.443
+  },
+  {
+    "State": "NJ",
+    "Year": "12/1/2007",
+    "Balance": 806.24,
+    "Credit Limit": 7878.14,
+    "Number of Cards": 3.02497,
+    "Utilization": 11.8923,
+    "Rating": 778.221
+  },
+  {
+    "State": "NJ",
+    "Year": "11/1/2008",
+    "Balance": 767,
+    "Credit Limit": 7403.77,
+    "Number of Cards": 2.74264,
+    "Utilization": 11.5285,
+    "Rating": 776.133
+  },
+  {
+    "State": "NJ",
+    "Year": "12/1/2008",
+    "Balance": 801.67,
+    "Credit Limit": 7430.76,
+    "Number of Cards": 2.73508,
+    "Utilization": 12.1141,
+    "Rating": 774.749
+  },
+  {
+    "State": "NJ",
+    "Year": "11/1/2009",
+    "Balance": 795.16,
+    "Credit Limit": 7220.5,
+    "Number of Cards": 2.37196,
+    "Utilization": 12.5796,
+    "Rating": 770.599
+  },
+  {
+    "State": "NJ",
+    "Year": "12/1/2009",
+    "Balance": 821.78,
+    "Credit Limit": 7256.71,
+    "Number of Cards": 2.38278,
+    "Utilization": 13.1222,
+    "Rating": 769.696
+  },
+  {
+    "State": "NJ",
+    "Year": "11/1/2010",
+    "Balance": 780.09,
+    "Credit Limit": 6072.26,
+    "Number of Cards": 2.23071,
+    "Utilization": 12.8103,
+    "Rating": 768.837
+  },
+  {
+    "State": "NJ",
+    "Year": "12/1/2010",
+    "Balance": 835.11,
+    "Credit Limit": 5957.27,
+    "Number of Cards": 2.28784,
+    "Utilization": 13.8151,
+    "Rating": 766.054
+  },
+  {
+    "State": "NM",
+    "Year": "11/1/2006",
+    "Balance": 867.16,
+    "Credit Limit": 5515.86,
+    "Number of Cards": 1.84525,
+    "Utilization": 16.6979,
+    "Rating": 728.977
+  },
+  {
+    "State": "NM",
+    "Year": "12/1/2006",
+    "Balance": 851.41,
+    "Credit Limit": 5412.93,
+    "Number of Cards": 1.90101,
+    "Utilization": 16.4057,
+    "Rating": 728.731
+  },
+  {
+    "State": "NM",
+    "Year": "11/1/2007",
+    "Balance": 867.27,
+    "Credit Limit": 5938.75,
+    "Number of Cards": 1.90559,
+    "Utilization": 16.0083,
+    "Rating": 730.512
+  },
+  {
+    "State": "NM",
+    "Year": "12/1/2007",
+    "Balance": 886.17,
+    "Credit Limit": 5795.45,
+    "Number of Cards": 1.91211,
+    "Utilization": 16.4677,
+    "Rating": 728.635
+  },
+  {
+    "State": "NM",
+    "Year": "11/1/2008",
+    "Balance": 897.19,
+    "Credit Limit": 5707.94,
+    "Number of Cards": 1.64079,
+    "Utilization": 17.0674,
+    "Rating": 731.067
+  },
+  {
+    "State": "NM",
+    "Year": "12/1/2008",
+    "Balance": 927.78,
+    "Credit Limit": 5639.05,
+    "Number of Cards": 1.63775,
+    "Utilization": 17.8626,
+    "Rating": 729.982
+  },
+  {
+    "State": "NM",
+    "Year": "11/1/2009",
+    "Balance": 912.04,
+    "Credit Limit": 5672.6,
+    "Number of Cards": 1.41934,
+    "Utilization": 17.54,
+    "Rating": 728.461
+  },
+  {
+    "State": "NM",
+    "Year": "12/1/2009",
+    "Balance": 925.62,
+    "Credit Limit": 5705.78,
+    "Number of Cards": 1.41961,
+    "Utilization": 17.8068,
+    "Rating": 727.797
+  },
+  {
+    "State": "NM",
+    "Year": "11/1/2010",
+    "Balance": 870.06,
+    "Credit Limit": 5299.02,
+    "Number of Cards": 1.39193,
+    "Utilization": 17.4028,
+    "Rating": 727.185
+  },
+  {
+    "State": "NM",
+    "Year": "12/1/2010",
+    "Balance": 895.14,
+    "Credit Limit": 5200.6,
+    "Number of Cards": 1.37364,
+    "Utilization": 16.7375,
+    "Rating": 726.9
+  },
+  {
+    "State": "NV",
+    "Year": "11/1/2006",
+    "Balance": 838.58,
+    "Credit Limit": 6452.09,
+    "Number of Cards": 2.25921,
+    "Utilization": 15.6121,
+    "Rating": 732.934
+  },
+  {
+    "State": "NV",
+    "Year": "12/1/2006",
+    "Balance": 864.8,
+    "Credit Limit": 6332.43,
+    "Number of Cards": 2.31859,
+    "Utilization": 16.1829,
+    "Rating": 731.837
+  },
+  {
+    "State": "NV",
+    "Year": "11/1/2007",
+    "Balance": 850.17,
+    "Credit Limit": 6696.89,
+    "Number of Cards": 2.30123,
+    "Utilization": 15.3367,
+    "Rating": 731.504
+  },
+  {
+    "State": "NV",
+    "Year": "12/1/2007",
+    "Balance": 928.54,
+    "Credit Limit": 6759.39,
+    "Number of Cards": 2.35729,
+    "Utilization": 15.8994,
+    "Rating": 730.967
+  },
+  {
+    "State": "NV",
+    "Year": "11/1/2008",
+    "Balance": 934.52,
+    "Credit Limit": 6290.66,
+    "Number of Cards": 2.00408,
+    "Utilization": 16.9266,
+    "Rating": 725.706
+  },
+  {
+    "State": "NV",
+    "Year": "12/1/2008",
+    "Balance": 951.84,
+    "Credit Limit": 6242.18,
+    "Number of Cards": 1.99883,
+    "Utilization": 17.1391,
+    "Rating": 724.218
+  },
+  {
+    "State": "NV",
+    "Year": "11/1/2009",
+    "Balance": 918.51,
+    "Credit Limit": 5960.96,
+    "Number of Cards": 1.65225,
+    "Utilization": 17.0261,
+    "Rating": 716.229
+  },
+  {
+    "State": "NV",
+    "Year": "12/1/2009",
+    "Balance": 932.82,
+    "Credit Limit": 6028.52,
+    "Number of Cards": 1.66519,
+    "Utilization": 17.2154,
+    "Rating": 715.754
+  },
+  {
+    "State": "NV",
+    "Year": "11/1/2010",
+    "Balance": 880.86,
+    "Credit Limit": 5414.24,
+    "Number of Cards": 1.54373,
+    "Utilization": 16.4873,
+    "Rating": 717.631
+  },
+  {
+    "State": "NV",
+    "Year": "12/1/2010",
+    "Balance": 925.93,
+    "Credit Limit": 5169.42,
+    "Number of Cards": 1.51521,
+    "Utilization": 18.1763,
+    "Rating": 718.094
+  },
+  {
+    "State": "NY",
+    "Year": "11/1/2006",
+    "Balance": 760.03,
+    "Credit Limit": 6884.55,
+    "Number of Cards": 2.4876,
+    "Utilization": 12.5563,
+    "Rating": 759.946
+  },
+  {
+    "State": "NY",
+    "Year": "12/1/2006",
+    "Balance": 774.05,
+    "Credit Limit": 6729.61,
+    "Number of Cards": 2.57242,
+    "Utilization": 12.9874,
+    "Rating": 758.556
+  },
+  {
+    "State": "NY",
+    "Year": "11/1/2007",
+    "Balance": 759.58,
+    "Credit Limit": 7130.98,
+    "Number of Cards": 2.66887,
+    "Utilization": 11.8845,
+    "Rating": 760.798
+  },
+  {
+    "State": "NY",
+    "Year": "12/1/2007",
+    "Balance": 793.73,
+    "Credit Limit": 7116.59,
+    "Number of Cards": 2.6776,
+    "Utilization": 12.5288,
+    "Rating": 759.071
+  },
+  {
+    "State": "NY",
+    "Year": "11/1/2008",
+    "Balance": 780.77,
+    "Credit Limit": 6768.52,
+    "Number of Cards": 2.38265,
+    "Utilization": 12.7794,
+    "Rating": 758.428
+  },
+  {
+    "State": "NY",
+    "Year": "12/1/2008",
+    "Balance": 810.71,
+    "Credit Limit": 6759.41,
+    "Number of Cards": 2.3814,
+    "Utilization": 13.3714,
+    "Rating": 757.107
+  },
+  {
+    "State": "NY",
+    "Year": "11/1/2009",
+    "Balance": 808.43,
+    "Credit Limit": 6613.83,
+    "Number of Cards": 2.12959,
+    "Utilization": 13.6071,
+    "Rating": 755.221
+  },
+  {
+    "State": "NY",
+    "Year": "12/1/2009",
+    "Balance": 833.43,
+    "Credit Limit": 6634.9,
+    "Number of Cards": 2.13839,
+    "Utilization": 14.1456,
+    "Rating": 754.474
+  },
+  {
+    "State": "NY",
+    "Year": "11/1/2010",
+    "Balance": 765.13,
+    "Credit Limit": 5514.36,
+    "Number of Cards": 2.0316,
+    "Utilization": 13.5088,
+    "Rating": 755.789
+  },
+  {
+    "State": "NY",
+    "Year": "12/1/2010",
+    "Balance": 787.67,
+    "Credit Limit": 5510.8,
+    "Number of Cards": 2.05988,
+    "Utilization": 14.1373,
+    "Rating": 755.212
+  },
+  {
+    "State": "OH",
+    "Year": "11/1/2006",
+    "Balance": 811.78,
+    "Credit Limit": 6978.99,
+    "Number of Cards": 2.32127,
+    "Utilization": 12.8556,
+    "Rating": 758.88
+  },
+  {
+    "State": "OH",
+    "Year": "12/1/2006",
+    "Balance": 832.55,
+    "Credit Limit": 6942.91,
+    "Number of Cards": 2.46468,
+    "Utilization": 13.2865,
+    "Rating": 758.053
+  },
+  {
+    "State": "OH",
+    "Year": "11/1/2007",
+    "Balance": 792.84,
+    "Credit Limit": 7270.64,
+    "Number of Cards": 2.50761,
+    "Utilization": 12.1744,
+    "Rating": 759.693
+  },
+  {
+    "State": "OH",
+    "Year": "12/1/2007",
+    "Balance": 826.96,
+    "Credit Limit": 7324.95,
+    "Number of Cards": 2.51169,
+    "Utilization": 12.7482,
+    "Rating": 758.943
+  },
+  {
+    "State": "OH",
+    "Year": "11/1/2008",
+    "Balance": 807.95,
+    "Credit Limit": 6888.46,
+    "Number of Cards": 2.15967,
+    "Utilization": 13.6456,
+    "Rating": 759.188
+  },
+  {
+    "State": "OH",
+    "Year": "12/1/2008",
+    "Balance": 841.06,
+    "Credit Limit": 6854.46,
+    "Number of Cards": 2.16365,
+    "Utilization": 14.3404,
+    "Rating": 758.063
+  },
+  {
+    "State": "OH",
+    "Year": "11/1/2009",
+    "Balance": 807.27,
+    "Credit Limit": 6453.28,
+    "Number of Cards": 1.95449,
+    "Utilization": 14.008,
+    "Rating": 754.351
+  },
+  {
+    "State": "OH",
+    "Year": "12/1/2009",
+    "Balance": 836.44,
+    "Credit Limit": 6447.88,
+    "Number of Cards": 1.96418,
+    "Utilization": 14.5787,
+    "Rating": 753.355
+  },
+  {
+    "State": "OH",
+    "Year": "11/1/2010",
+    "Balance": 786.69,
+    "Credit Limit": 5822.01,
+    "Number of Cards": 1.83905,
+    "Utilization": 13.8879,
+    "Rating": 754.464
+  },
+  {
+    "State": "OH",
+    "Year": "12/1/2010",
+    "Balance": 823.81,
+    "Credit Limit": 5839.78,
+    "Number of Cards": 1.89391,
+    "Utilization": 14.5101,
+    "Rating": 753.487
+  },
+  {
+    "State": "OK",
+    "Year": "11/1/2006",
+    "Balance": 731.26,
+    "Credit Limit": 5440.09,
+    "Number of Cards": 1.75935,
+    "Utilization": 15.0192,
+    "Rating": 729.632
+  },
+  {
+    "State": "OK",
+    "Year": "12/1/2006",
+    "Balance": 734.69,
+    "Credit Limit": 5336.91,
+    "Number of Cards": 1.82735,
+    "Utilization": 14.8546,
+    "Rating": 728.811
+  },
+  {
+    "State": "OK",
+    "Year": "11/1/2007",
+    "Balance": 783.24,
+    "Credit Limit": 5636.82,
+    "Number of Cards": 1.89722,
+    "Utilization": 14.9385,
+    "Rating": 731.634
+  },
+  {
+    "State": "OK",
+    "Year": "12/1/2007",
+    "Balance": 825.61,
+    "Credit Limit": 5598.35,
+    "Number of Cards": 1.91529,
+    "Utilization": 15.505,
+    "Rating": 730.446
+  },
+  {
+    "State": "OK",
+    "Year": "11/1/2008",
+    "Balance": 865.83,
+    "Credit Limit": 5454.63,
+    "Number of Cards": 1.53724,
+    "Utilization": 16.4216,
+    "Rating": 731.849
+  },
+  {
+    "State": "OK",
+    "Year": "12/1/2008",
+    "Balance": 892.66,
+    "Credit Limit": 5416.88,
+    "Number of Cards": 1.54573,
+    "Utilization": 17.4097,
+    "Rating": 730.582
+  },
+  {
+    "State": "OK",
+    "Year": "11/1/2009",
+    "Balance": 880.17,
+    "Credit Limit": 5359.54,
+    "Number of Cards": 1.45718,
+    "Utilization": 17.2976,
+    "Rating": 729.053
+  },
+  {
+    "State": "OK",
+    "Year": "12/1/2009",
+    "Balance": 896.26,
+    "Credit Limit": 5351.54,
+    "Number of Cards": 1.45585,
+    "Utilization": 17.6057,
+    "Rating": 728.395
+  },
+  {
+    "State": "OK",
+    "Year": "11/1/2010",
+    "Balance": 849.39,
+    "Credit Limit": 5059.05,
+    "Number of Cards": 1.422,
+    "Utilization": 16.7594,
+    "Rating": 729.311
+  },
+  {
+    "State": "OK",
+    "Year": "12/1/2010",
+    "Balance": 841.3,
+    "Credit Limit": 5061.12,
+    "Number of Cards": 1.40983,
+    "Utilization": 17.4934,
+    "Rating": 731.196
+  },
+  {
+    "State": "OR",
+    "Year": "11/1/2006",
+    "Balance": 607.19,
+    "Credit Limit": 5230.79,
+    "Number of Cards": 1.62817,
+    "Utilization": 11.485,
+    "Rating": 767.777
+  },
+  {
+    "State": "OR",
+    "Year": "12/1/2006",
+    "Balance": 603.92,
+    "Credit Limit": 5297.96,
+    "Number of Cards": 1.81899,
+    "Utilization": 11.1801,
+    "Rating": 768.241
+  },
+  {
+    "State": "OR",
+    "Year": "11/1/2007",
+    "Balance": 603.87,
+    "Credit Limit": 5749.77,
+    "Number of Cards": 1.80558,
+    "Utilization": 10.2709,
+    "Rating": 770.706
+  },
+  {
+    "State": "OR",
+    "Year": "12/1/2007",
+    "Balance": 640.49,
+    "Credit Limit": 5832.87,
+    "Number of Cards": 1.82881,
+    "Utilization": 10.6438,
+    "Rating": 771.134
+  },
+  {
+    "State": "OR",
+    "Year": "11/1/2008",
+    "Balance": 617.58,
+    "Credit Limit": 5533.74,
+    "Number of Cards": 1.62822,
+    "Utilization": 11.6496,
+    "Rating": 770.35
+  },
+  {
+    "State": "OR",
+    "Year": "12/1/2008",
+    "Balance": 604.94,
+    "Credit Limit": 5485.92,
+    "Number of Cards": 1.62029,
+    "Utilization": 12.0817,
+    "Rating": 769.756
+  },
+  {
+    "State": "OR",
+    "Year": "11/1/2009",
+    "Balance": 600.75,
+    "Credit Limit": 5056.49,
+    "Number of Cards": 1.4163,
+    "Utilization": 12.2455,
+    "Rating": 766.076
+  },
+  {
+    "State": "OR",
+    "Year": "12/1/2009",
+    "Balance": 612.03,
+    "Credit Limit": 5026.72,
+    "Number of Cards": 1.41745,
+    "Utilization": 12.7339,
+    "Rating": 765.065
+  },
+  {
+    "State": "OR",
+    "Year": "11/1/2010",
+    "Balance": 579.58,
+    "Credit Limit": 4385.31,
+    "Number of Cards": 1.34776,
+    "Utilization": 13.0314,
+    "Rating": 765.888
+  },
+  {
+    "State": "OR",
+    "Year": "12/1/2010",
+    "Balance": 610.13,
+    "Credit Limit": 4536,
+    "Number of Cards": 1.41099,
+    "Utilization": 13.1435,
+    "Rating": 766.862
+  },
+  {
+    "State": "PA",
+    "Year": "11/1/2006",
+    "Balance": 754.34,
+    "Credit Limit": 7065.77,
+    "Number of Cards": 2.28664,
+    "Utilization": 12.1517,
+    "Rating": 769.819
+  },
+  {
+    "State": "PA",
+    "Year": "12/1/2006",
+    "Balance": 766.64,
+    "Credit Limit": 7034.55,
+    "Number of Cards": 2.48881,
+    "Utilization": 12.2371,
+    "Rating": 768.036
+  },
+  {
+    "State": "PA",
+    "Year": "11/1/2007",
+    "Balance": 745.45,
+    "Credit Limit": 7432.94,
+    "Number of Cards": 2.53747,
+    "Utilization": 11.3966,
+    "Rating": 769.965
+  },
+  {
+    "State": "PA",
+    "Year": "12/1/2007",
+    "Balance": 783.87,
+    "Credit Limit": 7479.99,
+    "Number of Cards": 2.54584,
+    "Utilization": 12.027,
+    "Rating": 768.588
+  },
+  {
+    "State": "PA",
+    "Year": "11/1/2008",
+    "Balance": 761.77,
+    "Credit Limit": 7107.46,
+    "Number of Cards": 2.26897,
+    "Utilization": 12.1643,
+    "Rating": 770.116
+  },
+  {
+    "State": "PA",
+    "Year": "12/1/2008",
+    "Balance": 796.74,
+    "Credit Limit": 7080.91,
+    "Number of Cards": 2.27281,
+    "Utilization": 12.7335,
+    "Rating": 768.89
+  },
+  {
+    "State": "PA",
+    "Year": "11/1/2009",
+    "Balance": 758.17,
+    "Credit Limit": 6795.84,
+    "Number of Cards": 2.065,
+    "Utilization": 12.3368,
+    "Rating": 766.631
+  },
+  {
+    "State": "PA",
+    "Year": "12/1/2009",
+    "Balance": 792.45,
+    "Credit Limit": 6805.06,
+    "Number of Cards": 2.07316,
+    "Utilization": 12.9046,
+    "Rating": 765.216
+  },
+  {
+    "State": "PA",
+    "Year": "11/1/2010",
+    "Balance": 737.29,
+    "Credit Limit": 6017.87,
+    "Number of Cards": 1.96538,
+    "Utilization": 12.6197,
+    "Rating": 766.272
+  },
+  {
+    "State": "PA",
+    "Year": "12/1/2010",
+    "Balance": 791.92,
+    "Credit Limit": 5920.08,
+    "Number of Cards": 1.96367,
+    "Utilization": 13.4482,
+    "Rating": 762.497
+  },
+  {
+    "State": "RI",
+    "Year": "11/1/2006",
+    "Balance": 806.01,
+    "Credit Limit": 7159.53,
+    "Number of Cards": 2.30253,
+    "Utilization": 12.2028,
+    "Rating": 772.316
+  },
+  {
+    "State": "RI",
+    "Year": "12/1/2006",
+    "Balance": 809.08,
+    "Credit Limit": 7235.15,
+    "Number of Cards": 2.53734,
+    "Utilization": 12.0889,
+    "Rating": 771.883
+  },
+  {
+    "State": "RI",
+    "Year": "11/1/2007",
+    "Balance": 747.18,
+    "Credit Limit": 7495.99,
+    "Number of Cards": 2.6363,
+    "Utilization": 10.8229,
+    "Rating": 774.258
+  },
+  {
+    "State": "RI",
+    "Year": "12/1/2007",
+    "Balance": 790,
+    "Credit Limit": 7408.72,
+    "Number of Cards": 2.62153,
+    "Utilization": 11.6547,
+    "Rating": 772.619
+  },
+  {
+    "State": "RI",
+    "Year": "11/1/2008",
+    "Balance": 684.42,
+    "Credit Limit": 6951.37,
+    "Number of Cards": 2.27518,
+    "Utilization": 11.3912,
+    "Rating": 770.236
+  },
+  {
+    "State": "RI",
+    "Year": "12/1/2008",
+    "Balance": 721.01,
+    "Credit Limit": 6990.89,
+    "Number of Cards": 2.28477,
+    "Utilization": 12.286,
+    "Rating": 769.1
+  },
+  {
+    "State": "RI",
+    "Year": "11/1/2009",
+    "Balance": 741.82,
+    "Credit Limit": 6907.85,
+    "Number of Cards": 2.00134,
+    "Utilization": 11.9737,
+    "Rating": 765.104
+  },
+  {
+    "State": "RI",
+    "Year": "12/1/2009",
+    "Balance": 792.89,
+    "Credit Limit": 6962.19,
+    "Number of Cards": 2.01006,
+    "Utilization": 12.1799,
+    "Rating": 764.385
+  },
+  {
+    "State": "RI",
+    "Year": "11/1/2010",
+    "Balance": 700.01,
+    "Credit Limit": 5905.92,
+    "Number of Cards": 1.9237,
+    "Utilization": 11.7021,
+    "Rating": 764.849
+  },
+  {
+    "State": "RI",
+    "Year": "12/1/2010",
+    "Balance": 752.48,
+    "Credit Limit": 5835.72,
+    "Number of Cards": 1.94511,
+    "Utilization": 12.9139,
+    "Rating": 761.04
+  },
+  {
+    "State": "SC",
+    "Year": "11/1/2006",
+    "Balance": 837.08,
+    "Credit Limit": 6429.11,
+    "Number of Cards": 2.05677,
+    "Utilization": 15.2948,
+    "Rating": 728.479
+  },
+  {
+    "State": "SC",
+    "Year": "12/1/2006",
+    "Balance": 854.11,
+    "Credit Limit": 6375.33,
+    "Number of Cards": 2.0656,
+    "Utilization": 15.4772,
+    "Rating": 727.509
+  },
+  {
+    "State": "SC",
+    "Year": "11/1/2007",
+    "Balance": 867.55,
+    "Credit Limit": 6676.06,
+    "Number of Cards": 2.09063,
+    "Utilization": 15.2849,
+    "Rating": 729.714
+  },
+  {
+    "State": "SC",
+    "Year": "12/1/2007",
+    "Balance": 863.63,
+    "Credit Limit": 6609.41,
+    "Number of Cards": 2.08786,
+    "Utilization": 15.2694,
+    "Rating": 729.44
+  },
+  {
+    "State": "SC",
+    "Year": "11/1/2008",
+    "Balance": 890.66,
+    "Credit Limit": 6201.66,
+    "Number of Cards": 1.74558,
+    "Utilization": 16.9133,
+    "Rating": 729.714
+  },
+  {
+    "State": "SC",
+    "Year": "12/1/2008",
+    "Balance": 916.73,
+    "Credit Limit": 6105.41,
+    "Number of Cards": 1.75461,
+    "Utilization": 17.5399,
+    "Rating": 728.762
+  },
+  {
+    "State": "SC",
+    "Year": "11/1/2009",
+    "Balance": 901.22,
+    "Credit Limit": 5854.92,
+    "Number of Cards": 1.60674,
+    "Utilization": 16.6577,
+    "Rating": 725.047
+  },
+  {
+    "State": "SC",
+    "Year": "12/1/2009",
+    "Balance": 915.44,
+    "Credit Limit": 5835.9,
+    "Number of Cards": 1.60761,
+    "Utilization": 17.1599,
+    "Rating": 724.637
+  },
+  {
+    "State": "SC",
+    "Year": "11/1/2010",
+    "Balance": 854.17,
+    "Credit Limit": 5515.71,
+    "Number of Cards": 1.52701,
+    "Utilization": 17.1472,
+    "Rating": 725.697
+  },
+  {
+    "State": "SC",
+    "Year": "12/1/2010",
+    "Balance": 867.32,
+    "Credit Limit": 5363.16,
+    "Number of Cards": 1.53032,
+    "Utilization": 17.0922,
+    "Rating": 724.458
+  },
+  {
+    "State": "SD",
+    "Year": "11/1/2006",
+    "Balance": 608.6,
+    "Credit Limit": 5469.91,
+    "Number of Cards": 1.69802,
+    "Utilization": 10.6187,
+    "Rating": 768.607
+  },
+  {
+    "State": "SD",
+    "Year": "12/1/2006",
+    "Balance": 611.52,
+    "Credit Limit": 5468.13,
+    "Number of Cards": 1.73596,
+    "Utilization": 11.3373,
+    "Rating": 766.517
+  },
+  {
+    "State": "SD",
+    "Year": "11/1/2007",
+    "Balance": 612.42,
+    "Credit Limit": 5711.11,
+    "Number of Cards": 1.75138,
+    "Utilization": 10.948,
+    "Rating": 767.238
+  },
+  {
+    "State": "SD",
+    "Year": "12/1/2007",
+    "Balance": 644.49,
+    "Credit Limit": 5616.03,
+    "Number of Cards": 1.72744,
+    "Utilization": 11.4673,
+    "Rating": 765.602
+  },
+  {
+    "State": "SD",
+    "Year": "11/1/2008",
+    "Balance": 583.41,
+    "Credit Limit": 5255.16,
+    "Number of Cards": 1.55996,
+    "Utilization": 10.7547,
+    "Rating": 765.921
+  },
+  {
+    "State": "SD",
+    "Year": "12/1/2008",
+    "Balance": 591.52,
+    "Credit Limit": 5140.65,
+    "Number of Cards": 1.55812,
+    "Utilization": 10.5374,
+    "Rating": 765.018
+  },
+  {
+    "State": "SD",
+    "Year": "11/1/2009",
+    "Balance": 501.87,
+    "Credit Limit": 4880,
+    "Number of Cards": 1.4463,
+    "Utilization": 10.4898,
+    "Rating": 768.351
+  },
+  {
+    "State": "SD",
+    "Year": "12/1/2009",
+    "Balance": 515.95,
+    "Credit Limit": 4922.58,
+    "Number of Cards": 1.44414,
+    "Utilization": 10.7276,
+    "Rating": 765.2
+  },
+  {
+    "State": "SD",
+    "Year": "11/1/2010",
+    "Balance": 516.66,
+    "Credit Limit": 4579.67,
+    "Number of Cards": 1.40166,
+    "Utilization": 11.0141,
+    "Rating": 768.35
+  },
+  {
+    "State": "SD",
+    "Year": "12/1/2010",
+    "Balance": 629.56,
+    "Credit Limit": 4500.23,
+    "Number of Cards": 1.42162,
+    "Utilization": 13.2024,
+    "Rating": 765.806
+  },
+  {
+    "State": "TN",
+    "Year": "11/1/2006",
+    "Balance": 837.25,
+    "Credit Limit": 6197.72,
+    "Number of Cards": 1.99044,
+    "Utilization": 15.0662,
+    "Rating": 739.642
+  },
+  {
+    "State": "TN",
+    "Year": "12/1/2006",
+    "Balance": 844.85,
+    "Credit Limit": 6149.36,
+    "Number of Cards": 2.01799,
+    "Utilization": 15.2136,
+    "Rating": 738.214
+  },
+  {
+    "State": "TN",
+    "Year": "11/1/2007",
+    "Balance": 825.08,
+    "Credit Limit": 6488.89,
+    "Number of Cards": 2.0519,
+    "Utilization": 14.1992,
+    "Rating": 739.172
+  },
+  {
+    "State": "TN",
+    "Year": "12/1/2007",
+    "Balance": 855.18,
+    "Credit Limit": 6472.54,
+    "Number of Cards": 2.07077,
+    "Utilization": 14.6251,
+    "Rating": 737.872
+  },
+  {
+    "State": "TN",
+    "Year": "11/1/2008",
+    "Balance": 865.94,
+    "Credit Limit": 6184.26,
+    "Number of Cards": 1.7435,
+    "Utilization": 15.5781,
+    "Rating": 737.403
+  },
+  {
+    "State": "TN",
+    "Year": "12/1/2008",
+    "Balance": 877.95,
+    "Credit Limit": 6091.06,
+    "Number of Cards": 1.74206,
+    "Utilization": 15.8398,
+    "Rating": 736.881
+  },
+  {
+    "State": "TN",
+    "Year": "11/1/2009",
+    "Balance": 846.85,
+    "Credit Limit": 5887.41,
+    "Number of Cards": 1.60388,
+    "Utilization": 15.3931,
+    "Rating": 733.374
+  },
+  {
+    "State": "TN",
+    "Year": "12/1/2009",
+    "Balance": 878.82,
+    "Credit Limit": 5864.95,
+    "Number of Cards": 1.60942,
+    "Utilization": 16.051,
+    "Rating": 732.938
+  },
+  {
+    "State": "TN",
+    "Year": "11/1/2010",
+    "Balance": 854.06,
+    "Credit Limit": 5447.81,
+    "Number of Cards": 1.55382,
+    "Utilization": 15.8493,
+    "Rating": 734.061
+  },
+  {
+    "State": "TN",
+    "Year": "12/1/2010",
+    "Balance": 853.32,
+    "Credit Limit": 5700.43,
+    "Number of Cards": 1.5819,
+    "Utilization": 16.1464,
+    "Rating": 736.398
+  },
+  {
+    "State": "TX",
+    "Year": "11/1/2006",
+    "Balance": 974.16,
+    "Credit Limit": 6111.25,
+    "Number of Cards": 2.09169,
+    "Utilization": 17.5794,
+    "Rating": 716.467
+  },
+  {
+    "State": "TX",
+    "Year": "12/1/2006",
+    "Balance": 967.56,
+    "Credit Limit": 6054.6,
+    "Number of Cards": 2.2414,
+    "Utilization": 17.4121,
+    "Rating": 715.948
+  },
+  {
+    "State": "TX",
+    "Year": "11/1/2007",
+    "Balance": 991.88,
+    "Credit Limit": 6414.07,
+    "Number of Cards": 2.25048,
+    "Utilization": 17.1417,
+    "Rating": 718.36
+  },
+  {
+    "State": "TX",
+    "Year": "12/1/2007",
+    "Balance": 1020.74,
+    "Credit Limit": 6468.48,
+    "Number of Cards": 2.27047,
+    "Utilization": 17.8444,
+    "Rating": 717.169
+  },
+  {
+    "State": "TX",
+    "Year": "11/1/2008",
+    "Balance": 1059.84,
+    "Credit Limit": 6362.87,
+    "Number of Cards": 1.88535,
+    "Utilization": 19.1498,
+    "Rating": 718.569
+  },
+  {
+    "State": "TX",
+    "Year": "12/1/2008",
+    "Balance": 1073.94,
+    "Credit Limit": 6304.25,
+    "Number of Cards": 1.88061,
+    "Utilization": 19.6052,
+    "Rating": 718.025
+  },
+  {
+    "State": "TX",
+    "Year": "11/1/2009",
+    "Balance": 1055.82,
+    "Credit Limit": 6154,
+    "Number of Cards": 1.73312,
+    "Utilization": 19.3894,
+    "Rating": 716.96
+  },
+  {
+    "State": "TX",
+    "Year": "12/1/2009",
+    "Balance": 1076.24,
+    "Credit Limit": 6144.21,
+    "Number of Cards": 1.72979,
+    "Utilization": 19.7951,
+    "Rating": 716.265
+  },
+  {
+    "State": "TX",
+    "Year": "11/1/2010",
+    "Balance": 1018.7,
+    "Credit Limit": 5638.79,
+    "Number of Cards": 1.68204,
+    "Utilization": 19.0215,
+    "Rating": 717.338
+  },
+  {
+    "State": "TX",
+    "Year": "12/1/2010",
+    "Balance": 1048.05,
+    "Credit Limit": 5719.1,
+    "Number of Cards": 1.71622,
+    "Utilization": 19.2326,
+    "Rating": 717.499
+  },
+  {
+    "State": "US",
+    "Year": "11/1/2006",
+    "Balance": 790.38,
+    "Credit Limit": 6445.57,
+    "Number of Cards": 2.1659637,
+    "Utilization": 13.7266429,
+    "Rating": 754.1770696
+  },
+  {
+    "State": "US",
+    "Year": "12/1/2006",
+    "Balance": 798.51,
+    "Credit Limit": 6386.29,
+    "Number of Cards": 2.2702899,
+    "Utilization": 13.9030873,
+    "Rating": 753.2010425
+  },
+  {
+    "State": "US",
+    "Year": "11/1/2007",
+    "Balance": 792.54,
+    "Credit Limit": 6751.23,
+    "Number of Cards": 2.3104846,
+    "Utilization": 13.1057499,
+    "Rating": 755.1608711
+  },
+  {
+    "State": "US",
+    "Year": "12/1/2007",
+    "Balance": 825.2,
+    "Credit Limit": 6757.78,
+    "Number of Cards": 2.31945,
+    "Utilization": 13.731529,
+    "Rating": 753.8203779
+  },
+  {
+    "State": "US",
+    "Year": "11/1/2008",
+    "Balance": 828.27,
+    "Credit Limit": 6444.73,
+    "Number of Cards": 1.9967641,
+    "Utilization": 14.4701922,
+    "Rating": 752.8099329
+  },
+  {
+    "State": "US",
+    "Year": "12/1/2008",
+    "Balance": 850.17,
+    "Credit Limit": 6408.71,
+    "Number of Cards": 1.9979173,
+    "Utilization": 15.0112842,
+    "Rating": 751.7708197
+  },
+  {
+    "State": "US",
+    "Year": "11/1/2009",
+    "Balance": 829.05,
+    "Credit Limit": 6137.78,
+    "Number of Cards": 1.7786308,
+    "Utilization": 14.8469274,
+    "Rating": 748.0908104
+  },
+  {
+    "State": "US",
+    "Year": "12/1/2009",
+    "Balance": 852.59,
+    "Credit Limit": 6145.82,
+    "Number of Cards": 1.7826632,
+    "Utilization": 15.3746262,
+    "Rating": 747.2742127
+  },
+  {
+    "State": "US",
+    "Year": "11/1/2010",
+    "Balance": 790.59,
+    "Credit Limit": 5424.99,
+    "Number of Cards": 1.6975506,
+    "Utilization": 14.7596516,
+    "Rating": 748.0898745
+  },
+  {
+    "State": "US",
+    "Year": "12/1/2010",
+    "Balance": 822.75,
+    "Credit Limit": 5428.51,
+    "Number of Cards": 1.7147256,
+    "Utilization": 15.3470174,
+    "Rating": 747.1015996
+  },
+  {
+    "State": "UT",
+    "Year": "11/1/2006",
+    "Balance": 748.07,
+    "Credit Limit": 5869.26,
+    "Number of Cards": 1.77672,
+    "Utilization": 13.2823,
+    "Rating": 762.406
+  },
+  {
+    "State": "UT",
+    "Year": "12/1/2006",
+    "Balance": 728.13,
+    "Credit Limit": 5882.29,
+    "Number of Cards": 1.90009,
+    "Utilization": 13.1038,
+    "Rating": 762.463
+  },
+  {
+    "State": "UT",
+    "Year": "11/1/2007",
+    "Balance": 729.25,
+    "Credit Limit": 6181.32,
+    "Number of Cards": 1.8894,
+    "Utilization": 12.6156,
+    "Rating": 765.178
+  },
+  {
+    "State": "UT",
+    "Year": "12/1/2007",
+    "Balance": 777.47,
+    "Credit Limit": 6240.95,
+    "Number of Cards": 1.92425,
+    "Utilization": 13.8721,
+    "Rating": 764.565
+  },
+  {
+    "State": "UT",
+    "Year": "11/1/2008",
+    "Balance": 892.19,
+    "Credit Limit": 6485.66,
+    "Number of Cards": 1.56641,
+    "Utilization": 14.9595,
+    "Rating": 762.198
+  },
+  {
+    "State": "UT",
+    "Year": "12/1/2008",
+    "Balance": 923.42,
+    "Credit Limit": 6415.83,
+    "Number of Cards": 1.56275,
+    "Utilization": 15.5278,
+    "Rating": 761.458
+  },
+  {
+    "State": "UT",
+    "Year": "11/1/2009",
+    "Balance": 839.12,
+    "Credit Limit": 6101.54,
+    "Number of Cards": 1.33524,
+    "Utilization": 14.822,
+    "Rating": 758.256
+  },
+  {
+    "State": "UT",
+    "Year": "12/1/2009",
+    "Balance": 868.41,
+    "Credit Limit": 6062.42,
+    "Number of Cards": 1.33912,
+    "Utilization": 15.3409,
+    "Rating": 757.317
+  },
+  {
+    "State": "UT",
+    "Year": "11/1/2010",
+    "Balance": 801.75,
+    "Credit Limit": 5571.82,
+    "Number of Cards": 1.33466,
+    "Utilization": 14.9678,
+    "Rating": 757.75
+  },
+  {
+    "State": "UT",
+    "Year": "12/1/2010",
+    "Balance": 838.7,
+    "Credit Limit": 5360.67,
+    "Number of Cards": 1.34028,
+    "Utilization": 16.4377,
+    "Rating": 753.886
+  },
+  {
+    "State": "VA",
+    "Year": "11/1/2006",
+    "Balance": 782.75,
+    "Credit Limit": 6433.16,
+    "Number of Cards": 2.00104,
+    "Utilization": 14.005,
+    "Rating": 765.84
+  },
+  {
+    "State": "VA",
+    "Year": "12/1/2006",
+    "Balance": 809.59,
+    "Credit Limit": 6473.52,
+    "Number of Cards": 2.16775,
+    "Utilization": 14.1203,
+    "Rating": 764.545
+  },
+  {
+    "State": "VA",
+    "Year": "11/1/2007",
+    "Balance": 791.44,
+    "Credit Limit": 6896.8,
+    "Number of Cards": 2.19393,
+    "Utilization": 12.8813,
+    "Rating": 768.052
+  },
+  {
+    "State": "VA",
+    "Year": "12/1/2007",
+    "Balance": 823.83,
+    "Credit Limit": 6908.94,
+    "Number of Cards": 2.2095,
+    "Utilization": 13.7107,
+    "Rating": 765.854
+  },
+  {
+    "State": "VA",
+    "Year": "11/1/2008",
+    "Balance": 861.94,
+    "Credit Limit": 6578.41,
+    "Number of Cards": 1.91208,
+    "Utilization": 14.5165,
+    "Rating": 765.97
+  },
+  {
+    "State": "VA",
+    "Year": "12/1/2008",
+    "Balance": 878.57,
+    "Credit Limit": 6524.85,
+    "Number of Cards": 1.91617,
+    "Utilization": 15.0574,
+    "Rating": 765.141
+  },
+  {
+    "State": "VA",
+    "Year": "11/1/2009",
+    "Balance": 872.97,
+    "Credit Limit": 6269.14,
+    "Number of Cards": 1.76618,
+    "Utilization": 15.1429,
+    "Rating": 761.495
+  },
+  {
+    "State": "VA",
+    "Year": "12/1/2009",
+    "Balance": 906.15,
+    "Credit Limit": 6241.28,
+    "Number of Cards": 1.77057,
+    "Utilization": 15.8252,
+    "Rating": 760.711
+  },
+  {
+    "State": "VA",
+    "Year": "11/1/2010",
+    "Balance": 847.57,
+    "Credit Limit": 5594.35,
+    "Number of Cards": 1.68177,
+    "Utilization": 14.9755,
+    "Rating": 760.815
+  },
+  {
+    "State": "VA",
+    "Year": "12/1/2010",
+    "Balance": 839.71,
+    "Credit Limit": 5667.44,
+    "Number of Cards": 1.70313,
+    "Utilization": 15.5013,
+    "Rating": 760.953
+  },
+  {
+    "State": "VT",
+    "Year": "11/1/2006",
+    "Balance": 699.45,
+    "Credit Limit": 5706.97,
+    "Number of Cards": 1.76431,
+    "Utilization": 11.1121,
+    "Rating": 774.821
+  },
+  {
+    "State": "VT",
+    "Year": "12/1/2006",
+    "Balance": 677.52,
+    "Credit Limit": 5571.12,
+    "Number of Cards": 1.88989,
+    "Utilization": 10.9383,
+    "Rating": 773.576
+  },
+  {
+    "State": "VT",
+    "Year": "11/1/2007",
+    "Balance": 654.74,
+    "Credit Limit": 6027.89,
+    "Number of Cards": 1.90256,
+    "Utilization": 10.2268,
+    "Rating": 773.239
+  },
+  {
+    "State": "VT",
+    "Year": "12/1/2007",
+    "Balance": 708.72,
+    "Credit Limit": 6113.5,
+    "Number of Cards": 1.90412,
+    "Utilization": 10.5642,
+    "Rating": 771.887
+  },
+  {
+    "State": "VT",
+    "Year": "11/1/2008",
+    "Balance": 534.79,
+    "Credit Limit": 5989.14,
+    "Number of Cards": 1.71,
+    "Utilization": 8.681,
+    "Rating": 776.439
+  },
+  {
+    "State": "VT",
+    "Year": "12/1/2008",
+    "Balance": 554.66,
+    "Credit Limit": 5892.42,
+    "Number of Cards": 1.72031,
+    "Utilization": 9.3008,
+    "Rating": 775.374
+  },
+  {
+    "State": "VT",
+    "Year": "11/1/2009",
+    "Balance": 550.16,
+    "Credit Limit": 5515.5,
+    "Number of Cards": 1.60592,
+    "Utilization": 10.3206,
+    "Rating": 775.051
+  },
+  {
+    "State": "VT",
+    "Year": "12/1/2009",
+    "Balance": 564,
+    "Credit Limit": 5544.06,
+    "Number of Cards": 1.6132,
+    "Utilization": 10.543,
+    "Rating": 775.559
+  },
+  {
+    "State": "VT",
+    "Year": "11/1/2010",
+    "Balance": 502.05,
+    "Credit Limit": 5121.29,
+    "Number of Cards": 1.49482,
+    "Utilization": 9.4791,
+    "Rating": 777.928
+  },
+  {
+    "State": "VT",
+    "Year": "12/1/2010",
+    "Balance": 545.96,
+    "Credit Limit": 4922.75,
+    "Number of Cards": 1.44287,
+    "Utilization": 10.6958,
+    "Rating": 776.591
+  },
+  {
+    "State": "WA",
+    "Year": "11/1/2006",
+    "Balance": 657.27,
+    "Credit Limit": 6050.2,
+    "Number of Cards": 2.13002,
+    "Utilization": 11.6973,
+    "Rating": 775.67
+  },
+  {
+    "State": "WA",
+    "Year": "12/1/2006",
+    "Balance": 660.93,
+    "Credit Limit": 5905.93,
+    "Number of Cards": 2.13284,
+    "Utilization": 11.7182,
+    "Rating": 775.163
+  },
+  {
+    "State": "WA",
+    "Year": "11/1/2007",
+    "Balance": 665.66,
+    "Credit Limit": 6273.02,
+    "Number of Cards": 2.12294,
+    "Utilization": 11.1195,
+    "Rating": 779.25
+  },
+  {
+    "State": "WA",
+    "Year": "12/1/2007",
+    "Balance": 670.29,
+    "Credit Limit": 6237.71,
+    "Number of Cards": 2.10476,
+    "Utilization": 11.6043,
+    "Rating": 778.031
+  },
+  {
+    "State": "WA",
+    "Year": "11/1/2008",
+    "Balance": 682.19,
+    "Credit Limit": 5968.85,
+    "Number of Cards": 1.88456,
+    "Utilization": 12.1972,
+    "Rating": 778.165
+  },
+  {
+    "State": "WA",
+    "Year": "12/1/2008",
+    "Balance": 690.2,
+    "Credit Limit": 5926.89,
+    "Number of Cards": 1.88252,
+    "Utilization": 12.6584,
+    "Rating": 776.953
+  },
+  {
+    "State": "WA",
+    "Year": "11/1/2009",
+    "Balance": 709.87,
+    "Credit Limit": 5667.69,
+    "Number of Cards": 1.65736,
+    "Utilization": 12.9832,
+    "Rating": 771.897
+  },
+  {
+    "State": "WA",
+    "Year": "12/1/2009",
+    "Balance": 726.47,
+    "Credit Limit": 5679.38,
+    "Number of Cards": 1.66729,
+    "Utilization": 13.2547,
+    "Rating": 771.747
+  },
+  {
+    "State": "WA",
+    "Year": "11/1/2010",
+    "Balance": 703.54,
+    "Credit Limit": 4572.08,
+    "Number of Cards": 1.59376,
+    "Utilization": 13.3301,
+    "Rating": 771.528
+  },
+  {
+    "State": "WA",
+    "Year": "12/1/2010",
+    "Balance": 668.03,
+    "Credit Limit": 4397.8,
+    "Number of Cards": 1.56064,
+    "Utilization": 13.7612,
+    "Rating": 772.07
+  },
+  {
+    "State": "WI",
+    "Year": "11/1/2006",
+    "Balance": 678.17,
+    "Credit Limit": 6274.95,
+    "Number of Cards": 1.99223,
+    "Utilization": 11.6125,
+    "Rating": 782.38
+  },
+  {
+    "State": "WI",
+    "Year": "12/1/2006",
+    "Balance": 687.02,
+    "Credit Limit": 6239.29,
+    "Number of Cards": 2.06858,
+    "Utilization": 11.9206,
+    "Rating": 781.382
+  },
+  {
+    "State": "WI",
+    "Year": "11/1/2007",
+    "Balance": 650.64,
+    "Credit Limit": 6572.51,
+    "Number of Cards": 2.06698,
+    "Utilization": 10.7569,
+    "Rating": 784.753
+  },
+  {
+    "State": "WI",
+    "Year": "12/1/2007",
+    "Balance": 701.07,
+    "Credit Limit": 6635.69,
+    "Number of Cards": 2.09019,
+    "Utilization": 11.6562,
+    "Rating": 783.48
+  },
+  {
+    "State": "WI",
+    "Year": "11/1/2008",
+    "Balance": 645.63,
+    "Credit Limit": 6266.33,
+    "Number of Cards": 1.89382,
+    "Utilization": 11.2327,
+    "Rating": 784.256
+  },
+  {
+    "State": "WI",
+    "Year": "12/1/2008",
+    "Balance": 671.38,
+    "Credit Limit": 6272.17,
+    "Number of Cards": 1.91051,
+    "Utilization": 11.6608,
+    "Rating": 783.206
+  },
+  {
+    "State": "WI",
+    "Year": "11/1/2009",
+    "Balance": 614.94,
+    "Credit Limit": 5920.35,
+    "Number of Cards": 1.74835,
+    "Utilization": 11.1563,
+    "Rating": 778.128
+  },
+  {
+    "State": "WI",
+    "Year": "12/1/2009",
+    "Balance": 642.58,
+    "Credit Limit": 5904.03,
+    "Number of Cards": 1.74207,
+    "Utilization": 11.8258,
+    "Rating": 776.451
+  },
+  {
+    "State": "WI",
+    "Year": "11/1/2010",
+    "Balance": 590.71,
+    "Credit Limit": 5473,
+    "Number of Cards": 1.66219,
+    "Utilization": 11.4032,
+    "Rating": 773.761
+  },
+  {
+    "State": "WI",
+    "Year": "12/1/2010",
+    "Balance": 626.72,
+    "Credit Limit": 5481.98,
+    "Number of Cards": 1.66325,
+    "Utilization": 11.7315,
+    "Rating": 775.909
+  },
+  {
+    "State": "WV",
+    "Year": "11/1/2006",
+    "Balance": 862.09,
+    "Credit Limit": 6536.17,
+    "Number of Cards": 1.9928,
+    "Utilization": 15.2698,
+    "Rating": 736.373
+  },
+  {
+    "State": "WV",
+    "Year": "12/1/2006",
+    "Balance": 849.64,
+    "Credit Limit": 6534.26,
+    "Number of Cards": 2.09135,
+    "Utilization": 15.2874,
+    "Rating": 735.071
+  },
+  {
+    "State": "WV",
+    "Year": "11/1/2007",
+    "Balance": 778.62,
+    "Credit Limit": 6606.11,
+    "Number of Cards": 2.08909,
+    "Utilization": 13.5253,
+    "Rating": 739.152
+  },
+  {
+    "State": "WV",
+    "Year": "12/1/2007",
+    "Balance": 805.19,
+    "Credit Limit": 6841.73,
+    "Number of Cards": 2.13753,
+    "Utilization": 14.0049,
+    "Rating": 737.831
+  },
+  {
+    "State": "WV",
+    "Year": "11/1/2008",
+    "Balance": 914.15,
+    "Credit Limit": 6580.52,
+    "Number of Cards": 1.90451,
+    "Utilization": 15.8967,
+    "Rating": 739.678
+  },
+  {
+    "State": "WV",
+    "Year": "12/1/2008",
+    "Balance": 941.47,
+    "Credit Limit": 6558.45,
+    "Number of Cards": 1.90986,
+    "Utilization": 16.7064,
+    "Rating": 739.27
+  },
+  {
+    "State": "WV",
+    "Year": "11/1/2009",
+    "Balance": 903.82,
+    "Credit Limit": 6492.47,
+    "Number of Cards": 1.80115,
+    "Utilization": 15.6384,
+    "Rating": 736.808
+  },
+  {
+    "State": "WV",
+    "Year": "12/1/2009",
+    "Balance": 938.86,
+    "Credit Limit": 6519.37,
+    "Number of Cards": 1.80435,
+    "Utilization": 16.3536,
+    "Rating": 736.418
+  },
+  {
+    "State": "WV",
+    "Year": "11/1/2010",
+    "Balance": 847.76,
+    "Credit Limit": 5919.82,
+    "Number of Cards": 1.69659,
+    "Utilization": 15.2006,
+    "Rating": 740.1
+  },
+  {
+    "State": "WV",
+    "Year": "12/1/2010",
+    "Balance": 893.09,
+    "Credit Limit": 5739.06,
+    "Number of Cards": 1.7268,
+    "Utilization": 16.7862,
+    "Rating": 736.266
+  },
+  {
+    "State": "WY",
+    "Year": "11/1/2006",
+    "Balance": 946.42,
+    "Credit Limit": 5594.92,
+    "Number of Cards": 1.69726,
+    "Utilization": 15.4275,
+    "Rating": 751.879
+  },
+  {
+    "State": "WY",
+    "Year": "12/1/2006",
+    "Balance": 920.19,
+    "Credit Limit": 5560.33,
+    "Number of Cards": 1.72404,
+    "Utilization": 15.1572,
+    "Rating": 750.677
+  },
+  {
+    "State": "WY",
+    "Year": "11/1/2007",
+    "Balance": 955.88,
+    "Credit Limit": 6002.28,
+    "Number of Cards": 1.72625,
+    "Utilization": 14.7546,
+    "Rating": 751.925
+  },
+  {
+    "State": "WY",
+    "Year": "12/1/2007",
+    "Balance": 949.58,
+    "Credit Limit": 6029.97,
+    "Number of Cards": 1.72911,
+    "Utilization": 14.4807,
+    "Rating": 753.701
+  },
+  {
+    "State": "WY",
+    "Year": "11/1/2008",
+    "Balance": 1012.61,
+    "Credit Limit": 5844.7,
+    "Number of Cards": 1.46736,
+    "Utilization": 16.5953,
+    "Rating": 754.088
+  },
+  {
+    "State": "WY",
+    "Year": "12/1/2008",
+    "Balance": 1067.77,
+    "Credit Limit": 5840.39,
+    "Number of Cards": 1.46997,
+    "Utilization": 17.3866,
+    "Rating": 754.115
+  },
+  {
+    "State": "WY",
+    "Year": "11/1/2009",
+    "Balance": 1051.04,
+    "Credit Limit": 5564.71,
+    "Number of Cards": 1.36089,
+    "Utilization": 17.8021,
+    "Rating": 753.63
+  },
+  {
+    "State": "WY",
+    "Year": "12/1/2009",
+    "Balance": 1058.8,
+    "Credit Limit": 5550.67,
+    "Number of Cards": 1.35649,
+    "Utilization": 18.4907,
+    "Rating": 751.78
+  },
+  {
+    "State": "WY",
+    "Year": "11/1/2010",
+    "Balance": 930.41,
+    "Credit Limit": 5381.76,
+    "Number of Cards": 1.32933,
+    "Utilization": 14.6719,
+    "Rating": 753.523
+  },
+  {
+    "State": "WY",
+    "Year": "12/1/2010",
+    "Balance": 795.73,
+    "Credit Limit": 5454.24,
+    "Number of Cards": 1.30511,
+    "Utilization": 13.7385,
+    "Rating": 758.836
+  },
+  {
+    "State": "Grand Total",
+    "Year": "",
+    "Balance": 415942.5,
+    "Credit Limit": 3147606.09,
+    "Number of Cards": 981.5801498,
+    "Utilization": 7367.171808,
+    "Rating": 392041.9766
+  }
+]

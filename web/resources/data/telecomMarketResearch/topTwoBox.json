@@ -1,0 +1,33 @@
+[
+    {
+        "percentage":[{
+            "percent":"46%",
+            "header":"Top 2 Box"
+        }],
+    "Goal":[{
+            "Goal":"10"
+    }],
+    "data":[
+        {
+           "Satisfaction": "SomeWhat Disagree",
+           "Percent":"19%"
+           },
+        {
+           "Satisfaction": "Strongly Disagree",
+           "Percent":"15%"
+           },
+        {
+           "Satisfaction": "SomeWhat Agree",
+           "Percent":"27%"
+           },
+        {
+           "Satisfaction": "Undecided",
+           "Percent":"20%"
+           },
+        {
+           "Satisfaction": "Strongly Agree",
+           "Percent":"19%"
+           }
+        ]
+    }
+]   

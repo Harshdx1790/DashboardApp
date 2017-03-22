@@ -1,0 +1,22 @@
+[{
+        "data": [{
+            "month": "Account",
+            "count": 18000
+        }, {
+            "month": "Billing",
+            "count": 53000
+        }],
+        "name": "Series #1"
+    }, {
+        "data": [{
+            "month": "Account",
+            "count": 19000
+        }, {
+            "month": "Billing",
+            "count": 60000
+        }],
+        "name": "Series #2"
+    
+    }
+
+    ]

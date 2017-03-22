@@ -1,0 +1,138 @@
+[
+  {
+    "category": "Phones",
+    "Overall Sales": 1706824.139,
+    "Total Quantity": 11870,
+    "Overall Discount": 489.61,
+    "Total Profit": 216717.0058,
+    "Overall Shipping Cost": 184902.492
+  },
+  {
+    "category": "Copiers",
+    "Overall Sales": 1509436.273,
+    "Total Quantity": 7454,
+    "Overall Discount": 260.418,
+    "Total Profit": 258567.5482,
+    "Overall Shipping Cost": 159496.2049
+  },
+  {
+    "category": "Chairs",
+    "Overall Sales": 1501681.764,
+    "Total Quantity": 12336,
+    "Overall Discount": 560.12,
+    "Total Profit": 140396.2675,
+    "Overall Shipping Cost": 164229.352
+  },
+  {
+    "category": "Bookcases",
+    "Overall Sales": 1466572.242,
+    "Total Quantity": 8310,
+    "Overall Discount": 370.71,
+    "Total Profit": 161924.4195,
+    "Overall Shipping Cost": 155481.967
+  },
+  {
+    "category": "Storage",
+    "Overall Sales": 1127085.861,
+    "Total Quantity": 16917,
+    "Overall Discount": 700.49,
+    "Total Profit": 108461.4898,
+    "Overall Shipping Cost": 120546.032
+  },
+  {
+    "category": "Appliances",
+    "Overall Sales": 1011064.305,
+    "Total Quantity": 6078,
+    "Overall Discount": 248.7,
+    "Total Profit": 141680.5894,
+    "Overall Shipping Cost": 108300.586
+  },
+  {
+    "category": "Machines",
+    "Overall Sales": 779060.0671,
+    "Total Quantity": 4906,
+    "Overall Discount": 252,
+    "Total Profit": 58867.873,
+    "Overall Shipping Cost": 79135.8485
+  },
+  {
+    "category": "Tables",
+    "Overall Sales": 757041.9244,
+    "Total Quantity": 3083,
+    "Overall Discount": 250.32,
+    "Total Profit": -64083.3887,
+    "Overall Shipping Cost": 79861.394
+  },
+  {
+    "category": "Accessories",
+    "Overall Sales": 749237.0185,
+    "Total Quantity": 10946,
+    "Overall Discount": 370.48,
+    "Total Profit": 129626.3062,
+    "Overall Shipping Cost": 83513.334
+  },
+  {
+    "category": "Binders",
+    "Overall Sales": 461911.5057,
+    "Total Quantity": 21429,
+    "Overall Discount": 1102.48,
+    "Total Profit": 72449.846,
+    "Overall Shipping Cost": 48181.712
+  },
+  {
+    "category": "Furnishings",
+    "Overall Sales": 385578.2559,
+    "Total Quantity": 11225,
+    "Overall Discount": 478.88,
+    "Total Profit": 46967.4255,
+    "Overall Shipping Cost": 40746.766
+  },
+  {
+    "category": "Art",
+    "Overall Sales": 372091.9659,
+    "Total Quantity": 16301,
+    "Overall Discount": 573.08,
+    "Total Profit": 57953.9109,
+    "Overall Shipping Cost": 41287.142
+  },
+  {
+    "category": "Paper",
+    "Overall Sales": 244291.7194,
+    "Total Quantity": 12822,
+    "Overall Discount": 387.3,
+    "Total Profit": 59207.6827,
+    "Overall Shipping Cost": 26660.845
+  },
+  {
+    "category": "Supplies",
+    "Overall Sales": 243074.2206,
+    "Total Quantity": 8543,
+    "Overall Discount": 310.2,
+    "Total Profit": 22583.2631,
+    "Overall Shipping Cost": 24811.527
+  },
+  {
+    "category": "Envelopes",
+    "Overall Sales": 170904.3016,
+    "Total Quantity": 8380,
+    "Overall Discount": 320.81,
+    "Total Profit": 29601.1163,
+    "Overall Shipping Cost": 18547.488
+  },
+  {
+    "category": "Fasteners",
+    "Overall Sales": 83242.3159,
+    "Total Quantity": 8390,
+    "Overall Discount": 340.24,
+    "Total Profit": 11525.4241,
+    "Overall Shipping Cost": 9053.338
+  },
+  {
+    "category": "Labels",
+    "Overall Sales": 73404.03,
+    "Total Quantity": 9322,
+    "Overall Discount": 313.89,
+    "Total Profit": 15010.512,
+    "Overall Shipping Cost": 8059.675
+  }
+]

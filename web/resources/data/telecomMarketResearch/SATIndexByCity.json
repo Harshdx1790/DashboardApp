@@ -1,0 +1,59 @@
+[
+  {
+    "State": "Salt Lake City",
+    "Overall Customer Satisfaction": 3.1,
+    "At General Industry": 3.8,
+    "General Industry Employee": 4.1
+    
+  },
+  {
+    "State": "Provo",
+    "Overall Customer Satisfaction": 3.1,
+    "At General Industry": 3.7,
+    "General Industry Employee": 4.2
+    
+  },
+  {
+    "State": "Boise",
+    "Overall Customer Satisfaction": 3.1,
+    "At General Industry": 3.8,
+    "General Industry Employee": 4.0
+    
+  },
+  {
+    "State": "Phoenix",
+    "Overall Customer Satisfaction": 3.1,
+    "At General Industry": 3.7,
+    "General Industry Employee": 4.1
+    
+  },
+  {
+    "State": "San Fransisco",
+    "Overall Customer Satisfaction": 3.2,
+    "At General Industry": 3.2,
+    "General Industry Employee": 4.1
+    
+  },
+  {
+    "State": "Los Angeles",
+    "Overall Customer Satisfaction": 3.2,
+    "At General Industry": 3.8,
+    "General Industry Employee": 4.1
+    
+  },
+  {
+    "State": "Denver",
+    "Overall Customer Satisfaction": 3.2,
+    "At General Industry": 3.2,
+    "General Industry Employee": 4.2
+    
+  },
+  {
+    "State": "Albuquerque",
+    "Overall Customer Satisfaction": 3.2,
+    "At General Industry": 3.8,
+    "General Industry Employee": 4.1
+    
+  }
+  
+]
